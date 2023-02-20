@@ -1,9 +1,7 @@
-# React DND TypeScript Starter Repo for CISC275 Fall 2022
+Credit:
 
-Hello! This repository has been pre-configured with eslint and gh-pages to automatically deploy your app when you push to the main branch.
+This project's repo is the result of cloning the repo https://github.com/tharveypa/final-project-start, which was used by Dr. Harvey to facilitate the creation of a react-dnd project. I am cloning this repo due to it being pre-configured with eslint and gh-pages (this is mentioned within his repo's README.md).
 
-Fork, and execute necessary setup steps.
+This Project:
 
-Watch this space for additional project requirements. For some example requirements from a previous project, see garden_designer_reqs.txt
-
-For more information and tutorials about react-dnd see https://react-dnd.github.io/react-dnd/examples/tutorial. Remember that all code for these examples is available on GitHub.
+This project KartKustomizer allows the user to create a combination of character and kart parts and see the overall stats. In the first revision it is going to do everything locally (the data will be contained in a component or relevant text/csv file). Upon completion it may be converted to scrape the data from the web.
