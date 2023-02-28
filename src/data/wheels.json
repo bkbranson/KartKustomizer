@@ -1,0 +1,403 @@
+{
+    "WHEELS": [
+        {
+            "name": "Roller",
+            "picture": "",
+            "data": {
+                "wg": 0,
+                "ac": 6,
+                "on": 0,
+                "of": 4,
+                "mt": 6,
+                "sl": 0,
+                "sw": 3,
+                "sa": 0,
+                "sg": 3,
+                "tl": 4,
+                "tw": 4,
+                "ta": 4,
+                "tg": 4
+            }
+        },
+        {
+            "name": "Azure Roller",
+            "picture": "",
+            "data": {
+                "wg": 0,
+                "ac": 6,
+                "on": 0,
+                "of": 4,
+                "mt": 6,
+                "sl": 0,
+                "sw": 3,
+                "sa": 0,
+                "sg": 3,
+                "tl": 4,
+                "tw": 4,
+                "ta": 4,
+                "tg": 4
+            }
+        },
+        {
+            "name": "Button",
+            "picture": "",
+            "data": {
+                "wg": 0,
+                "ac": 5,
+                "on": 1,
+                "of": 3,
+                "mt": 5,
+                "sl": 1,
+                "sw": 2,
+                "sa": 2,
+                "sg": 2,
+                "tl": 2,
+                "tw": 3,
+                "ta": 4,
+                "tg": 2
+            }
+        },
+        {
+            "name": "Leaf",
+            "picture": "",
+            "data": {
+                "wg": 0,
+                "ac": 5,
+                "on": 1,
+                "of": 3,
+                "mt": 5,
+                "sl": 1,
+                "sw": 2,
+                "sa": 2,
+                "sg": 2,
+                "tl": 2,
+                "tw": 3,
+                "ta": 4,
+                "tg": 2
+            }
+        },
+        {
+            "name": "Sponge",
+            "picture": "",
+            "data": {
+                "wg": 1,
+                "ac": 4,
+                "on": 2,
+                "of": 6,
+                "mt": 4,
+                "sl": 1,
+                "sw": 1,
+                "sa": 1,
+                "sg": 4,
+                "tl": 2,
+                "tw": 1,
+                "ta": 2,
+                "tg": 3
+            }
+        },
+        {
+            "name": "Cushion",
+            "picture": "",
+            "data": {
+                "wg": 1,
+                "ac": 4,
+                "on": 2,
+                "of": 6,
+                "mt": 4,
+                "sl": 1,
+                "sw": 1,
+                "sa": 1,
+                "sg": 4,
+                "tl": 2,
+                "tw": 1,
+                "ta": 2,
+                "tg": 3
+            }
+        },
+        {
+            "name": "Standard",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 4,
+                "on": 2,
+                "of": 5,
+                "mt": 3,
+                "sl": 2,
+                "sw": 3,
+                "sa": 2,
+                "sg": 3,
+                "tl": 3,
+                "tw": 3,
+                "ta": 3,
+                "tg": 3
+            }
+        },
+        {
+            "name": "Blue Standard",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 4,
+                "on": 2,
+                "of": 5,
+                "mt": 3,
+                "sl": 2,
+                "sw": 3,
+                "sa": 2,
+                "sg": 3,
+                "tl": 3,
+                "tw": 3,
+                "ta": 3,
+                "tg": 3
+            }
+        },
+        {
+            "name": "GLA Tires",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 4,
+                "on": 2,
+                "of": 5,
+                "mt": 3,
+                "sl": 2,
+                "sw": 3,
+                "sa": 2,
+                "sg": 3,
+                "tl": 3,
+                "tw": 3,
+                "ta": 3,
+                "tg": 3
+            }
+        },
+        {
+            "name": "Wood",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 2,
+                "on": 4,
+                "of": 1,
+                "mt": 2,
+                "sl": 3,
+                "sw": 2,
+                "sa": 4,
+                "sg": 2,
+                "tl": 4,
+                "tw": 4,
+                "ta": 3,
+                "tg": 4
+            }
+        },
+        {
+            "name": "Crimson Slim",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 2,
+                "on": 4,
+                "of": 1,
+                "mt": 2,
+                "sl": 3,
+                "sw": 2,
+                "sa": 4,
+                "sg": 2,
+                "tl": 4,
+                "tw": 4,
+                "ta": 3,
+                "tg": 4
+            }
+        },
+        {
+            "name": "Slick",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 1,
+                "on": 4,
+                "of": 0,
+                "mt": 0,
+                "sl": 4,
+                "sw": 0,
+                "sa": 4,
+                "sg": 0,
+                "tl": 2,
+                "tw": 0,
+                "ta": 2,
+                "tg": 1
+            }
+        },
+        {
+            "name": "Cyber Slick",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 1,
+                "on": 4,
+                "of": 0,
+                "mt": 0,
+                "sl": 4,
+                "sw": 0,
+                "sa": 4,
+                "sg": 0,
+                "tl": 2,
+                "tw": 0,
+                "ta": 2,
+                "tg": 1
+            }
+        },
+        {
+            "name": "Off-Road",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 3,
+                "on": 3,
+                "of": 6,
+                "mt": 1,
+                "sl": 3,
+                "sw": 4,
+                "sa": 2,
+                "sg": 1,
+                "tl": 1,
+                "tw": 1,
+                "ta": 2,
+                "tg": 2
+            }
+        },
+        {
+            "name": "Retro Off-Road",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 3,
+                "on": 3,
+                "of": 6,
+                "mt": 1,
+                "sl": 3,
+                "sw": 4,
+                "sa": 2,
+                "sg": 1,
+                "tl": 1,
+                "tw": 1,
+                "ta": 2,
+                "tg": 2
+            }
+        },
+        {
+            "name": "Triforce Tires",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 3,
+                "on": 3,
+                "of": 6,
+                "mt": 1,
+                "sl": 3,
+                "sw": 4,
+                "sa": 2,
+                "sg": 1,
+                "tl": 1,
+                "tw": 1,
+                "ta": 2,
+                "tg": 2
+            }
+        },
+        {
+            "name": "Metal",
+            "picture": "",
+            "data": {
+                "wg": 4,
+                "ac": 0,
+                "on": 1,
+                "of": 2,
+                "mt": 0,
+                "sl": 4,
+                "sw": 3,
+                "sa": 1,
+                "sg": 2,
+                "tl": 2,
+                "tw": 2,
+                "ta": 1,
+                "tg": 0
+            }
+        },
+        {
+            "name": "Gold Tires",
+            "picture": "",
+            "data": {
+                "wg": 4,
+                "ac": 0,
+                "on": 1,
+                "of": 2,
+                "mt": 0,
+                "sl": 4,
+                "sw": 3,
+                "sa": 1,
+                "sg": 2,
+                "tl": 2,
+                "tw": 2,
+                "ta": 1,
+                "tg": 0
+            }
+        },
+        {
+            "name": "Monster",
+            "picture": "",
+            "data": {
+                "wg": 4,
+                "ac": 2,
+                "on": 3,
+                "of": 7,
+                "mt": 2,
+                "sl": 2,
+                "sw": 2,
+                "sa": 2,
+                "sg": 1,
+                "tl": 0,
+                "tw": 1,
+                "ta": 0,
+                "tg": 1
+            }
+        },
+        {
+            "name": "Hot Monster",
+            "picture": "",
+            "data": {
+                "wg": 4,
+                "ac": 2,
+                "on": 3,
+                "of": 7,
+                "mt": 2,
+                "sl": 2,
+                "sw": 2,
+                "sa": 2,
+                "sg": 1,
+                "tl": 0,
+                "tw": 1,
+                "ta": 0,
+                "tg": 1
+            }
+        },
+        {
+            "name": "Ancient Tires",
+            "picture": "",
+            "data": {
+                "wg": 4,
+                "ac": 2,
+                "on": 3,
+                "of": 7,
+                "mt": 2,
+                "sl": 2,
+                "sw": 2,
+                "sa": 2,
+                "sg": 1,
+                "tl": 0,
+                "tw": 1,
+                "ta": 0,
+                "tg": 1
+            }
+        }
+    ]
+}
