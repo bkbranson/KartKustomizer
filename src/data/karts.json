@@ -1,0 +1,824 @@
+{
+    "KARTS": [
+        {
+            "name": "Standard Kart",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 4,
+                "on": 3,
+                "of": 3,
+                "mt": 4,
+                "sl": 3,
+                "sw": 3,
+                "sa": 3,
+                "sg": 3,
+                "tl": 3,
+                "tw": 2,
+                "ta": 3,
+                "tg": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "The Duke",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 4,
+                "on": 3,
+                "of": 3,
+                "mt": 4,
+                "sl": 3,
+                "sw": 3,
+                "sa": 3,
+                "sg": 3,
+                "tl": 3,
+                "tw": 2,
+                "ta": 3,
+                "tg": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "300 SL Roadster",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 4,
+                "on": 3,
+                "of": 3,
+                "mt": 4,
+                "sl": 3,
+                "sw": 3,
+                "sa": 3,
+                "sg": 3,
+                "tl": 3,
+                "tw": 2,
+                "ta": 3,
+                "tg": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Pipe Frame",
+            "picture": "",
+            "data": {
+                "wg": 1,
+                "ac": 6,
+                "on": 3,
+                "of": 4,
+                "mt": 6,
+                "sl": 1,
+                "sw": 3,
+                "sa": 1,
+                "sg": 1,
+                "tl": 5,
+                "tw": 4,
+                "ta": 4,
+                "tg": 2
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Varmint",
+            "picture": "",
+            "data": {
+                "wg": 1,
+                "ac": 6,
+                "on": 3,
+                "of": 4,
+                "mt": 6,
+                "sl": 1,
+                "sw": 3,
+                "sa": 1,
+                "sg": 1,
+                "tl": 5,
+                "tw": 4,
+                "ta": 4,
+                "tg": 2
+            },
+            "inward": "false"
+        },
+        {
+            "name": "City Tripper",
+            "picture": "",
+            "data": {
+                "wg": 1,
+                "ac": 6,
+                "on": 3,
+                "of": 4,
+                "mt": 6,
+                "sl": 1,
+                "sw": 3,
+                "sa": 1,
+                "sg": 1,
+                "tl": 5,
+                "tw": 4,
+                "ta": 4,
+                "tg": 2
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Mach 8",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 3,
+                "on": 2,
+                "of": 4,
+                "mt": 4,
+                "sl": 3,
+                "sw": 3,
+                "sa": 5,
+                "sg": 4,
+                "tl": 2,
+                "tw": 2,
+                "ta": 4,
+                "tg": 2
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Sports Coupe",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 3,
+                "on": 2,
+                "of": 4,
+                "mt": 4,
+                "sl": 3,
+                "sw": 3,
+                "sa": 5,
+                "sg": 4,
+                "tl": 2,
+                "tw": 2,
+                "ta": 4,
+                "tg": 2
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Inkstriker",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 3,
+                "on": 2,
+                "of": 4,
+                "mt": 4,
+                "sl": 3,
+                "sw": 3,
+                "sa": 5,
+                "sg": 4,
+                "tl": 2,
+                "tw": 2,
+                "ta": 4,
+                "tg": 2
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Steel Driver",
+            "picture": "",
+            "data": {
+                "wg": 4,
+                "ac": 1,
+                "on": 1,
+                "of": 3,
+                "mt": 2,
+                "sl": 4,
+                "sw": 5,
+                "sa": 2,
+                "sg": 0,
+                "tl": 1,
+                "tw": 5,
+                "ta": 1,
+                "tg": 1
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Tri-Speeder",
+            "picture": "",
+            "data": {
+                "wg": 4,
+                "ac": 1,
+                "on": 1,
+                "of": 3,
+                "mt": 2,
+                "sl": 4,
+                "sw": 5,
+                "sa": 2,
+                "sg": 0,
+                "tl": 1,
+                "tw": 5,
+                "ta": 1,
+                "tg": 1
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Bone Rattler",
+            "picture": "",
+            "data": {
+                "wg": 4,
+                "ac": 1,
+                "on": 1,
+                "of": 3,
+                "mt": 2,
+                "sl": 4,
+                "sw": 5,
+                "sa": 2,
+                "sg": 0,
+                "tl": 1,
+                "tw": 5,
+                "ta": 1,
+                "tg": 1
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Cat Cruiser",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 5,
+                "on": 4,
+                "of": 3,
+                "mt": 5,
+                "sl": 2,
+                "sw": 2,
+                "sa": 4,
+                "sg": 4,
+                "tl": 4,
+                "tw": 2,
+                "ta": 3,
+                "tg": 4
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Comet",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 5,
+                "on": 4,
+                "of": 3,
+                "mt": 5,
+                "sl": 2,
+                "sw": 2,
+                "sa": 4,
+                "sg": 4,
+                "tl": 4,
+                "tw": 2,
+                "ta": 3,
+                "tg": 4
+            },
+            "inward": "true"
+        },
+        {
+            "name": "Yoshi Bike",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 5,
+                "on": 4,
+                "of": 3,
+                "mt": 5,
+                "sl": 2,
+                "sw": 2,
+                "sa": 4,
+                "sg": 4,
+                "tl": 4,
+                "tw": 2,
+                "ta": 3,
+                "tg": 4
+            },
+            "inward": "true"
+        },
+        {
+            "name": "Teddy Buggyr",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 5,
+                "on": 4,
+                "of": 3,
+                "mt": 5,
+                "sl": 2,
+                "sw": 2,
+                "sa": 4,
+                "sg": 4,
+                "tl": 4,
+                "tw": 2,
+                "ta": 3,
+                "tg": 4
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Circuit Special",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 1,
+                "on": 3,
+                "of": 1,
+                "mt": 1,
+                "sl": 5,
+                "sw": 1,
+                "sa": 4,
+                "sg": 2,
+                "tl": 1,
+                "tw": 1,
+                "ta": 2,
+                "tg": 0
+            },
+            "inward": "false"
+        },
+        {
+            "name": "B Dasher",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 1,
+                "on": 3,
+                "of": 1,
+                "mt": 1,
+                "sl": 5,
+                "sw": 1,
+                "sa": 4,
+                "sg": 2,
+                "tl": 1,
+                "tw": 1,
+                "ta": 2,
+                "tg": 0
+            },
+            "inward": "false"
+        },
+        {
+            "name": "P-Wing",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 1,
+                "on": 3,
+                "of": 1,
+                "mt": 1,
+                "sl": 5,
+                "sw": 1,
+                "sa": 4,
+                "sg": 2,
+                "tl": 1,
+                "tw": 1,
+                "ta": 2,
+                "tg": 0
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Badwagon",
+            "picture": "",
+            "data": {
+                "wg": 4,
+                "ac": 0,
+                "on": 2,
+                "of": 5,
+                "mt": 0,
+                "sl": 5,
+                "sw": 2,
+                "sa": 3,
+                "sg": 1,
+                "tl": 0,
+                "tw": 1,
+                "ta": 1,
+                "tg": 0
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Standard ATV",
+            "picture": "",
+            "data": {
+                "wg": 4,
+                "ac": 0,
+                "on": 2,
+                "of": 5,
+                "mt": 0,
+                "sl": 5,
+                "sw": 2,
+                "sa": 3,
+                "sg": 1,
+                "tl": 0,
+                "tw": 1,
+                "ta": 1,
+                "tg": 0
+            },
+            "inward": "false"
+        },
+        {
+            "name": "GLA",
+            "picture": "",
+            "data": {
+                "wg": 4,
+                "ac": 0,
+                "on": 2,
+                "of": 5,
+                "mt": 0,
+                "sl": 5,
+                "sw": 2,
+                "sa": 3,
+                "sg": 1,
+                "tl": 0,
+                "tw": 1,
+                "ta": 1,
+                "tg": 0
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Prancer",
+            "picture": "",
+            "data": {
+                "wg": 1,
+                "ac": 2,
+                "on": 1,
+                "of": 2,
+                "mt": 3,
+                "sl": 4,
+                "sw": 3,
+                "sa": 3,
+                "sg": 3,
+                "tl": 3,
+                "tw": 3,
+                "ta": 2,
+                "tg": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Sports Bike",
+            "picture": "",
+            "data": {
+                "wg": 1,
+                "ac": 2,
+                "on": 1,
+                "of": 2,
+                "mt": 3,
+                "sl": 4,
+                "sw": 3,
+                "sa": 3,
+                "sg": 3,
+                "tl": 3,
+                "tw": 3,
+                "ta": 2,
+                "tg": 3
+            },
+            "inward": "true"
+        },
+        {
+            "name": "Jet Bike",
+            "picture": "",
+            "data": {
+                "wg": 1,
+                "ac": 2,
+                "on": 1,
+                "of": 2,
+                "mt": 3,
+                "sl": 4,
+                "sw": 3,
+                "sa": 3,
+                "sg": 3,
+                "tl": 3,
+                "tw": 3,
+                "ta": 2,
+                "tg": 3
+            },
+            "inward": "true"
+        },
+        {
+            "name": "Biddybuggy",
+            "picture": "",
+            "data": {
+                "wg": 0,
+                "ac": 7,
+                "on": 1,
+                "of": 4,
+                "mt": 7,
+                "sl": 0,
+                "sw": 1,
+                "sa": 2,
+                "sg": 1,
+                "tl": 5,
+                "tw": 4,
+                "ta": 5,
+                "tg": 4
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Mr. Scooty",
+            "picture": "",
+            "data": {
+                "wg": 0,
+                "ac": 7,
+                "on": 1,
+                "of": 4,
+                "mt": 7,
+                "sl": 0,
+                "sw": 1,
+                "sa": 2,
+                "sg": 1,
+                "tl": 5,
+                "tw": 4,
+                "ta": 5,
+                "tg": 4
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Landship",
+            "picture": "",
+            "data": {
+                "wg": 0,
+                "ac": 6,
+                "on": 0,
+                "of": 6,
+                "mt": 6,
+                "sl": 1,
+                "sw": 5,
+                "sa": 0,
+                "sg": 2,
+                "tl": 4,
+                "tw": 5,
+                "ta": 2,
+                "tg": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Streetle",
+            "picture": "",
+            "data": {
+                "wg": 0,
+                "ac": 6,
+                "on": 0,
+                "of": 6,
+                "mt": 6,
+                "sl": 1,
+                "sw": 5,
+                "sa": 0,
+                "sg": 2,
+                "tl": 4,
+                "tw": 5,
+                "ta": 2,
+                "tg": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Sneaker",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 2,
+                "on": 1,
+                "of": 0,
+                "mt": 3,
+                "sl": 4,
+                "sw": 2,
+                "sa": 3,
+                "sg": 3,
+                "tl": 3,
+                "tw": 2,
+                "ta": 3,
+                "tg": 2
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Gold Standard",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 2,
+                "on": 1,
+                "of": 0,
+                "mt": 3,
+                "sl": 4,
+                "sw": 2,
+                "sa": 3,
+                "sg": 3,
+                "tl": 3,
+                "tw": 2,
+                "ta": 3,
+                "tg": 2
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Master Cycle",
+            "picture": "",
+            "data": {
+                "wg": 2,
+                "ac": 2,
+                "on": 1,
+                "of": 0,
+                "mt": 3,
+                "sl": 4,
+                "sw": 2,
+                "sa": 3,
+                "sg": 3,
+                "tl": 3,
+                "tw": 2,
+                "ta": 3,
+                "tg": 2
+            },
+            "inward": "true"
+        },
+        {
+            "name": "Standard Bike",
+            "picture": "",
+            "data": {
+                "wg": 1,
+                "ac": 5,
+                "on": 3,
+                "of": 5,
+                "mt": 5,
+                "sl": 2,
+                "sw": 2,
+                "sa": 4,
+                "sg": 3,
+                "tl": 4,
+                "tw": 3,
+                "ta": 4,
+                "tg": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Flame Rider",
+            "picture": "",
+            "data": {
+                "wg": 1,
+                "ac": 5,
+                "on": 3,
+                "of": 5,
+                "mt": 5,
+                "sl": 2,
+                "sw": 2,
+                "sa": 4,
+                "sg": 3,
+                "tl": 4,
+                "tw": 3,
+                "ta": 4,
+                "tg": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Wild Wiggler",
+            "picture": "",
+            "data": {
+                "wg": 1,
+                "ac": 5,
+                "on": 3,
+                "of": 5,
+                "mt": 5,
+                "sl": 2,
+                "sw": 2,
+                "sa": 4,
+                "sg": 3,
+                "tl": 4,
+                "tw": 3,
+                "ta": 4,
+                "tg": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "W25 Silver Arrow",
+            "picture": "",
+            "data": {
+                "wg": 1,
+                "ac": 5,
+                "on": 3,
+                "of": 5,
+                "mt": 5,
+                "sl": 2,
+                "sw": 2,
+                "sa": 4,
+                "sg": 3,
+                "tl": 4,
+                "tw": 3,
+                "ta": 4,
+                "tg": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Tanooki Kart",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 2,
+                "on": 4,
+                "of": 7,
+                "mt": 3,
+                "sl": 2,
+                "sw": 4,
+                "sa": 3,
+                "sg": 3,
+                "tl": 4,
+                "tw": 4,
+                "ta": 3,
+                "tg": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Master Cycle Zero",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 2,
+                "on": 4,
+                "of": 7,
+                "mt": 3,
+                "sl": 2,
+                "sw": 4,
+                "sa": 3,
+                "sg": 3,
+                "tl": 4,
+                "tw": 4,
+                "ta": 3,
+                "tg": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Koopa Clown",
+            "picture": "",
+            "data": {
+                "wg": 3,
+                "ac": 2,
+                "on": 4,
+                "of": 7,
+                "mt": 3,
+                "sl": 2,
+                "sw": 4,
+                "sa": 3,
+                "sg": 3,
+                "tl": 4,
+                "tw": 4,
+                "ta": 3,
+                "tg": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Blue Falcon",
+            "picture": "",
+            "data": {
+                "wg": 0,
+                "ac": 3,
+                "on": 1,
+                "of": 3,
+                "mt": 3,
+                "sl": 4,
+                "sw": 2,
+                "sa": 4,
+                "sg": 3,
+                "tl": 2,
+                "tw": 4,
+                "ta": 5,
+                "tg": 1
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Splat Buggy",
+            "picture": "",
+            "data": {
+                "wg": 0,
+                "ac": 3,
+                "on": 1,
+                "of": 3,
+                "mt": 3,
+                "sl": 4,
+                "sw": 2,
+                "sa": 4,
+                "sg": 3,
+                "tl": 2,
+                "tw": 4,
+                "ta": 5,
+                "tg": 1
+            },
+            "inward": "false"
+        }
+    ]
+}

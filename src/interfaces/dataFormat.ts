@@ -1,4 +1,4 @@
-export interface characterData {
+export interface dataFormat {
     wg: number; //weight
     ac: number; //acceleration
     on: number; //on-raod traction
