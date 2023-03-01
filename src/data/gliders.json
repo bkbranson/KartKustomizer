@@ -1,0 +1,308 @@
+{
+    "GLIDERS": [
+        {
+            "name": "Cloud Glider",
+            "picture": "../pictures/glidericons/MK8D_Cloud_Glider.png",
+            "data": {
+                "wg": 0,
+                "ac": 2,
+                "on": 1,
+                "of": 1,
+                "mt": 2,
+                "sl": 0,
+                "sw": 1,
+                "sa": 1,
+                "sg": 1,
+                "tl": 1,
+                "tw": 0,
+                "ta": 1,
+                "tg": 2
+            }
+        },
+        {
+            "name": "Parachute",
+            "picture": "../pictures/glidericons/MK8D_Parachute.png",
+            "data": {
+                "wg": 0,
+                "ac": 2,
+                "on": 1,
+                "of": 1,
+                "mt": 2,
+                "sl": 0,
+                "sw": 1,
+                "sa": 1,
+                "sg": 1,
+                "tl": 1,
+                "tw": 0,
+                "ta": 1,
+                "tg": 2
+            }
+        },
+        {
+            "name": "Flower Glider",
+            "picture": "../pictures/glidericons/MK8D_Flower_Glider.png",
+            "data": {
+                "wg": 0,
+                "ac": 2,
+                "on": 1,
+                "of": 1,
+                "mt": 2,
+                "sl": 0,
+                "sw": 1,
+                "sa": 1,
+                "sg": 1,
+                "tl": 1,
+                "tw": 0,
+                "ta": 1,
+                "tg": 2
+            }
+        },
+        {
+            "name": "Paper Glider",
+            "picture": "../pictures/glidericons/MK8D_Paper_Glider.png",
+            "data": {
+                "wg": 0,
+                "ac": 2,
+                "on": 1,
+                "of": 1,
+                "mt": 2,
+                "sl": 0,
+                "sw": 1,
+                "sa": 1,
+                "sg": 1,
+                "tl": 1,
+                "tw": 0,
+                "ta": 1,
+                "tg": 2
+            }
+        },
+        {
+            "name": "Super Glider",
+            "picture": "../pictures/glidericons/MK8D_Super_Glider.png",
+            "data": {
+                "wg": 1,
+                "ac": 1,
+                "on": 1,
+                "of": 1,
+                "mt": 1,
+                "sl": 1,
+                "sw": 1,
+                "sa": 0,
+                "sg": 2,
+                "tl": 1,
+                "tw": 0,
+                "ta": 1,
+                "tg": 1
+            }
+        },
+        {
+            "name": "Waddle Wing",
+            "picture": "../pictures/glidericons/MK8D_Waddle_Wing.png",
+            "data": {
+                "wg": 1,
+                "ac": 1,
+                "on": 1,
+                "of": 1,
+                "mt": 1,
+                "sl": 1,
+                "sw": 1,
+                "sa": 0,
+                "sg": 2,
+                "tl": 1,
+                "tw": 0,
+                "ta": 1,
+                "tg": 1
+            }
+        },
+        {
+            "name": "Hylian Kite",
+            "picture": "../pictures/glidericons/MK8D_Hylian_Kite.png",
+            "data": {
+                "wg": 1,
+                "ac": 1,
+                "on": 1,
+                "of": 1,
+                "mt": 1,
+                "sl": 1,
+                "sw": 1,
+                "sa": 0,
+                "sg": 2,
+                "tl": 1,
+                "tw": 0,
+                "ta": 1,
+                "tg": 1
+            }
+        },
+        {
+            "name": "Super Glider",
+            "picture": "../pictures/glidericons/MK8D_Super_Glider.png",
+            "data": {
+                "wg": 1,
+                "ac": 1,
+                "on": 1,
+                "of": 1,
+                "mt": 1,
+                "sl": 1,
+                "sw": 1,
+                "sa": 0,
+                "sg": 2,
+                "tl": 1,
+                "tw": 0,
+                "ta": 1,
+                "tg": 1
+            }
+        },
+        {
+            "name": "Peach Parasol",
+            "picture": "../pictures/glidericons/MK8D_Peach_Parasol.png",
+            "data": {
+                "wg": 1,
+                "ac": 2,
+                "on": 2,
+                "of": 0,
+                "mt": 2,
+                "sl": 0,
+                "sw": 0,
+                "sa": 1,
+                "sg": 1,
+                "tl": 1,
+                "tw": 1,
+                "ta": 0,
+                "tg": 2
+            }
+        },
+        {
+            "name": "Parafoil",
+            "picture": "../pictures/glidericons/MK8D_Parafoil.png",
+            "data": {
+                "wg": 1,
+                "ac": 2,
+                "on": 2,
+                "of": 0,
+                "mt": 2,
+                "sl": 0,
+                "sw": 0,
+                "sa": 1,
+                "sg": 1,
+                "tl": 1,
+                "tw": 1,
+                "ta": 0,
+                "tg": 2
+            }
+        },
+        {
+            "name": "Bowser Kite",
+            "picture": "../pictures/glidericons/MK8D_Bowser_Kite.png",
+            "data": {
+                "wg": 1,
+                "ac": 2,
+                "on": 2,
+                "of": 0,
+                "mt": 2,
+                "sl": 0,
+                "sw": 0,
+                "sa": 1,
+                "sg": 1,
+                "tl": 1,
+                "tw": 1,
+                "ta": 0,
+                "tg": 2
+            }
+        },
+        {
+            "name": "MKTV Parafoil",
+            "picture": "../pictures/glidericons/MK8D_MKTV_Parafoil.png",
+            "data": {
+                "wg": 1,
+                "ac": 2,
+                "on": 2,
+                "of": 0,
+                "mt": 2,
+                "sl": 0,
+                "sw": 0,
+                "sa": 1,
+                "sg": 1,
+                "tl": 1,
+                "tw": 1,
+                "ta": 0,
+                "tg": 2
+            }
+        },
+        {
+            "name": "Wario Wing",
+            "picture": "../pictures/glidericons/MK8D_Wario_Wing.png",
+            "data": {
+                "wg": 2,
+                "ac": 1,
+                "on": 2,
+                "of": 0,
+                "mt": 1,
+                "sl": 1,
+                "sw": 0,
+                "sa": 1,
+                "sg": 2,
+                "tl": 1,
+                "tw": 1,
+                "ta": 0,
+                "tg": 1
+            }
+        },
+        {
+            "name": "Plane Glider",
+            "picture": "../pictures/glidericons/MK8D_Plane_Glider.png",
+            "data": {
+                "wg": 2,
+                "ac": 1,
+                "on": 2,
+                "of": 0,
+                "mt": 1,
+                "sl": 1,
+                "sw": 0,
+                "sa": 1,
+                "sg": 2,
+                "tl": 1,
+                "tw": 1,
+                "ta": 0,
+                "tg": 1
+            }
+        },
+        {
+            "name": "Gold Glider",
+            "picture": "../pictures/glidericons/MK8D_Gold_Glider.png",
+            "data": {
+                "wg": 2,
+                "ac": 1,
+                "on": 2,
+                "of": 0,
+                "mt": 1,
+                "sl": 1,
+                "sw": 0,
+                "sa": 1,
+                "sg": 2,
+                "tl": 1,
+                "tw": 1,
+                "ta": 0,
+                "tg": 1
+            }
+        },
+        {
+            "name": "Paraglider",
+            "picture": "../pictures/glidericons/MK8D_Paraglider.png",
+            "data": {
+                "wg": 2,
+                "ac": 1,
+                "on": 2,
+                "of": 0,
+                "mt": 1,
+                "sl": 1,
+                "sw": 0,
+                "sa": 1,
+                "sg": 2,
+                "tl": 1,
+                "tw": 1,
+                "ta": 0,
+                "tg": 1
+            }
+        }
+    ]
+}
