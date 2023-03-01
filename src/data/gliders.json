@@ -2,7 +2,7 @@
     "GLIDERS": [
         {
             "name": "Cloud Glider",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Cloud_Glider.png",
             "data": {
                 "wg": 0,
                 "ac": 2,
@@ -21,7 +21,7 @@
         },
         {
             "name": "Parachute",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Parachute.png",
             "data": {
                 "wg": 0,
                 "ac": 2,
@@ -40,7 +40,7 @@
         },
         {
             "name": "Flower Glider",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Flower_Glider.png",
             "data": {
                 "wg": 0,
                 "ac": 2,
@@ -59,7 +59,7 @@
         },
         {
             "name": "Paper Glider",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Paper_Glider.png",
             "data": {
                 "wg": 0,
                 "ac": 2,
@@ -78,7 +78,7 @@
         },
         {
             "name": "Super Glider",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Super_Glider.png",
             "data": {
                 "wg": 1,
                 "ac": 1,
@@ -97,7 +97,7 @@
         },
         {
             "name": "Waddle Wing",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Waddle_Wing.png",
             "data": {
                 "wg": 1,
                 "ac": 1,
@@ -116,7 +116,7 @@
         },
         {
             "name": "Hylian Kite",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Hylian_Kite.png",
             "data": {
                 "wg": 1,
                 "ac": 1,
@@ -135,7 +135,7 @@
         },
         {
             "name": "Super Glider",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Super_Glider.png",
             "data": {
                 "wg": 1,
                 "ac": 1,
@@ -154,7 +154,7 @@
         },
         {
             "name": "Peach Parasol",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Peach_Parasol.png",
             "data": {
                 "wg": 1,
                 "ac": 2,
@@ -173,7 +173,7 @@
         },
         {
             "name": "Parafoil",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Parafoil.png",
             "data": {
                 "wg": 1,
                 "ac": 2,
@@ -192,7 +192,7 @@
         },
         {
             "name": "Bowser Kite",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Bowser_Kite.png",
             "data": {
                 "wg": 1,
                 "ac": 2,
@@ -211,7 +211,7 @@
         },
         {
             "name": "MKTV Parafoil",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_MKTV_Parafoil.png",
             "data": {
                 "wg": 1,
                 "ac": 2,
@@ -230,7 +230,7 @@
         },
         {
             "name": "Wario Wing",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Wario_Wing.png",
             "data": {
                 "wg": 2,
                 "ac": 1,
@@ -249,7 +249,7 @@
         },
         {
             "name": "Plane Glider",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Plane_Glider.png",
             "data": {
                 "wg": 2,
                 "ac": 1,
@@ -268,7 +268,7 @@
         },
         {
             "name": "Gold Glider",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Gold_Glider.png",
             "data": {
                 "wg": 2,
                 "ac": 1,
@@ -287,7 +287,7 @@
         },
         {
             "name": "Paraglider",
-            "picture": "",
+            "picture": "../pictures/glidericons/MK8D_Paraglider.png",
             "data": {
                 "wg": 2,
                 "ac": 1,

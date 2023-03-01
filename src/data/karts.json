@@ -2,7 +2,7 @@
     "KARTS": [
         {
             "name": "Standard Kart",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Standard_Kart.png",
             "data": {
                 "wg": 2,
                 "ac": 4,
@@ -22,7 +22,7 @@
         },
         {
             "name": "The Duke",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_The_Duke.png",
             "data": {
                 "wg": 2,
                 "ac": 4,
@@ -42,7 +42,7 @@
         },
         {
             "name": "300 SL Roadster",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_300_SL_Roadster.png",
             "data": {
                 "wg": 2,
                 "ac": 4,
@@ -62,7 +62,7 @@
         },
         {
             "name": "Pipe Frame",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Pipe_Frame.png",
             "data": {
                 "wg": 1,
                 "ac": 6,
@@ -82,7 +82,7 @@
         },
         {
             "name": "Varmint",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Varmint.png",
             "data": {
                 "wg": 1,
                 "ac": 6,
@@ -102,7 +102,7 @@
         },
         {
             "name": "City Tripper",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_City_Tripper.png",
             "data": {
                 "wg": 1,
                 "ac": 6,
@@ -122,7 +122,7 @@
         },
         {
             "name": "Mach 8",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Mach_8.png",
             "data": {
                 "wg": 3,
                 "ac": 3,
@@ -142,7 +142,7 @@
         },
         {
             "name": "Sports Coupe",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Sports_Coupe.png",
             "data": {
                 "wg": 3,
                 "ac": 3,
@@ -162,7 +162,7 @@
         },
         {
             "name": "Inkstriker",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Inkstriker.png",
             "data": {
                 "wg": 3,
                 "ac": 3,
@@ -182,7 +182,7 @@
         },
         {
             "name": "Steel Driver",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Steel_Driver.png",
             "data": {
                 "wg": 4,
                 "ac": 1,
@@ -202,7 +202,7 @@
         },
         {
             "name": "Tri-Speeder",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Tri-Speeder.png",
             "data": {
                 "wg": 4,
                 "ac": 1,
@@ -222,7 +222,7 @@
         },
         {
             "name": "Bone Rattler",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Bone_Rattler.png",
             "data": {
                 "wg": 4,
                 "ac": 1,
@@ -242,7 +242,7 @@
         },
         {
             "name": "Cat Cruiser",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Cat_Cruiser.png",
             "data": {
                 "wg": 2,
                 "ac": 5,
@@ -262,7 +262,7 @@
         },
         {
             "name": "Comet",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Comet.png",
             "data": {
                 "wg": 2,
                 "ac": 5,
@@ -282,7 +282,7 @@
         },
         {
             "name": "Yoshi Bike",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_yoshi_Bike.png",
             "data": {
                 "wg": 2,
                 "ac": 5,
@@ -301,8 +301,8 @@
             "inward": "true"
         },
         {
-            "name": "Teddy Buggyr",
-            "picture": "",
+            "name": "Teddy Buggy",
+            "picture": "../pictures/karticons/MK8D_Teddy_Buggy.png",
             "data": {
                 "wg": 2,
                 "ac": 5,
@@ -322,7 +322,7 @@
         },
         {
             "name": "Circuit Special",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Circuit_Special.png",
             "data": {
                 "wg": 3,
                 "ac": 1,
@@ -342,7 +342,7 @@
         },
         {
             "name": "B Dasher",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_B_Dasher.png",
             "data": {
                 "wg": 3,
                 "ac": 1,
@@ -362,7 +362,7 @@
         },
         {
             "name": "P-Wing",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_P-Wing.png",
             "data": {
                 "wg": 3,
                 "ac": 1,
@@ -382,7 +382,7 @@
         },
         {
             "name": "Badwagon",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Badwagon.png",
             "data": {
                 "wg": 4,
                 "ac": 0,
@@ -402,7 +402,7 @@
         },
         {
             "name": "Standard ATV",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Standard_ATV.png",
             "data": {
                 "wg": 4,
                 "ac": 0,
@@ -422,7 +422,7 @@
         },
         {
             "name": "GLA",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_GLA.png",
             "data": {
                 "wg": 4,
                 "ac": 0,
@@ -442,7 +442,7 @@
         },
         {
             "name": "Prancer",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Prancer.png",
             "data": {
                 "wg": 1,
                 "ac": 2,
@@ -462,7 +462,7 @@
         },
         {
             "name": "Sports Bike",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Sports_Bike.png",
             "data": {
                 "wg": 1,
                 "ac": 2,
@@ -482,7 +482,7 @@
         },
         {
             "name": "Jet Bike",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Jet_Bike.png",
             "data": {
                 "wg": 1,
                 "ac": 2,
@@ -502,7 +502,7 @@
         },
         {
             "name": "Biddybuggy",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Biddybuggy.png",
             "data": {
                 "wg": 0,
                 "ac": 7,
@@ -522,7 +522,7 @@
         },
         {
             "name": "Mr. Scooty",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Mr_Scooty.png",
             "data": {
                 "wg": 0,
                 "ac": 7,
@@ -542,7 +542,7 @@
         },
         {
             "name": "Landship",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Landship.png",
             "data": {
                 "wg": 0,
                 "ac": 6,
@@ -562,7 +562,7 @@
         },
         {
             "name": "Streetle",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Streetle.png",
             "data": {
                 "wg": 0,
                 "ac": 6,
@@ -582,7 +582,7 @@
         },
         {
             "name": "Sneaker",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Sneaker.png",
             "data": {
                 "wg": 2,
                 "ac": 2,
@@ -602,7 +602,7 @@
         },
         {
             "name": "Gold Standard",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Gold_Standard.png",
             "data": {
                 "wg": 2,
                 "ac": 2,
@@ -622,7 +622,7 @@
         },
         {
             "name": "Master Cycle",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Master_Cycle.png",
             "data": {
                 "wg": 2,
                 "ac": 2,
@@ -642,7 +642,7 @@
         },
         {
             "name": "Standard Bike",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Standard_Bike.png",
             "data": {
                 "wg": 1,
                 "ac": 5,
@@ -662,7 +662,7 @@
         },
         {
             "name": "Flame Rider",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Flame_Rider.png",
             "data": {
                 "wg": 1,
                 "ac": 5,
@@ -682,7 +682,7 @@
         },
         {
             "name": "Wild Wiggler",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Wild_Wiggler.png",
             "data": {
                 "wg": 1,
                 "ac": 5,
@@ -701,8 +701,8 @@
             "inward": "false"
         },
         {
-            "name": "W25 Silver Arrow",
-            "picture": "",
+            "name": "W 25 Silver Arrow",
+            "picture": "../pictures/karticons/MK8D_W_25_Silver_Arrow.png",
             "data": {
                 "wg": 1,
                 "ac": 5,
@@ -722,7 +722,7 @@
         },
         {
             "name": "Tanooki Kart",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Tanooki_Kart.png",
             "data": {
                 "wg": 3,
                 "ac": 2,
@@ -742,7 +742,7 @@
         },
         {
             "name": "Master Cycle Zero",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Master_Cycle_Zero.png",
             "data": {
                 "wg": 3,
                 "ac": 2,
@@ -762,7 +762,7 @@
         },
         {
             "name": "Koopa Clown",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Koopa_Clown.png",
             "data": {
                 "wg": 3,
                 "ac": 2,
@@ -782,7 +782,7 @@
         },
         {
             "name": "Blue Falcon",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Blue_Falcon.png",
             "data": {
                 "wg": 0,
                 "ac": 3,
@@ -802,7 +802,7 @@
         },
         {
             "name": "Splat Buggy",
-            "picture": "",
+            "picture": "../pictures/karticons/MK8D_Splat_Buggy.png",
             "data": {
                 "wg": 0,
                 "ac": 3,

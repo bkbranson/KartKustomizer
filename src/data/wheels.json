@@ -2,7 +2,7 @@
     "WHEELS": [
         {
             "name": "Roller",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Roller.png",
             "data": {
                 "wg": 0,
                 "ac": 6,
@@ -21,7 +21,7 @@
         },
         {
             "name": "Azure Roller",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Azure_Roller.png",
             "data": {
                 "wg": 0,
                 "ac": 6,
@@ -40,7 +40,7 @@
         },
         {
             "name": "Button",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Button.png",
             "data": {
                 "wg": 0,
                 "ac": 5,
@@ -58,8 +58,8 @@
             }
         },
         {
-            "name": "Leaf",
-            "picture": "",
+            "name": "Leaf Tires",
+            "picture": "../pictures/wheelicons/MK8D_Leaf_Tires.png",
             "data": {
                 "wg": 0,
                 "ac": 5,
@@ -78,7 +78,7 @@
         },
         {
             "name": "Sponge",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Sponge.png",
             "data": {
                 "wg": 1,
                 "ac": 4,
@@ -97,7 +97,7 @@
         },
         {
             "name": "Cushion",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Cushion.png",
             "data": {
                 "wg": 1,
                 "ac": 4,
@@ -116,7 +116,7 @@
         },
         {
             "name": "Standard",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Standard.png",
             "data": {
                 "wg": 2,
                 "ac": 4,
@@ -135,7 +135,7 @@
         },
         {
             "name": "Blue Standard",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Blue_Standard.png",
             "data": {
                 "wg": 2,
                 "ac": 4,
@@ -154,7 +154,7 @@
         },
         {
             "name": "GLA Tires",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_GLA_Tires.png",
             "data": {
                 "wg": 2,
                 "ac": 4,
@@ -173,7 +173,7 @@
         },
         {
             "name": "Wood",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Wood.png",
             "data": {
                 "wg": 2,
                 "ac": 2,
@@ -192,7 +192,7 @@
         },
         {
             "name": "Crimson Slim",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Crimson_Slim.png",
             "data": {
                 "wg": 2,
                 "ac": 2,
@@ -211,7 +211,7 @@
         },
         {
             "name": "Slick",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Slick.png",
             "data": {
                 "wg": 3,
                 "ac": 1,
@@ -230,7 +230,7 @@
         },
         {
             "name": "Cyber Slick",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Cyber_Slick.png",
             "data": {
                 "wg": 3,
                 "ac": 1,
@@ -249,7 +249,7 @@
         },
         {
             "name": "Off-Road",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Off-Road.png",
             "data": {
                 "wg": 3,
                 "ac": 3,
@@ -268,7 +268,7 @@
         },
         {
             "name": "Retro Off-Road",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Retro_Off-Road.png",
             "data": {
                 "wg": 3,
                 "ac": 3,
@@ -287,7 +287,7 @@
         },
         {
             "name": "Triforce Tires",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Triforce_Tires.png",
             "data": {
                 "wg": 3,
                 "ac": 3,
@@ -306,7 +306,7 @@
         },
         {
             "name": "Metal",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Metal.png",
             "data": {
                 "wg": 4,
                 "ac": 0,
@@ -325,7 +325,7 @@
         },
         {
             "name": "Gold Tires",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Gold_Tires.png",
             "data": {
                 "wg": 4,
                 "ac": 0,
@@ -344,7 +344,7 @@
         },
         {
             "name": "Monster",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Monster.png",
             "data": {
                 "wg": 4,
                 "ac": 2,
@@ -363,7 +363,7 @@
         },
         {
             "name": "Hot Monster",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Hot_Monster.png",
             "data": {
                 "wg": 4,
                 "ac": 2,
@@ -382,7 +382,7 @@
         },
         {
             "name": "Ancient Tires",
-            "picture": "",
+            "picture": "../pictures/wheelicons/MK8D_Ancient_Tires.png",
             "data": {
                 "wg": 4,
                 "ac": 2,
