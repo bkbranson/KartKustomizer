@@ -18,5 +18,5 @@ function App(): JSX.Element {
         </div>
     );
 }
-
+//MUST EDIT JSON FILES AND RESTRUCTURE< PAUSING UNTIL THIS HAPPENS
 export default App;
