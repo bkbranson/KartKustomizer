@@ -1,5 +1,5 @@
 import { dataFormat } from "./dataFormat";
-export interface charwheelglid {
+export interface characterWheelGlider {
     name: string;
     picture: string;
     data: dataFormat;

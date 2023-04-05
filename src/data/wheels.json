@@ -1,402 +1,508 @@
 {
-    "WHEELS": [
-        {
-            "name": "Roller",
-            "picture": "../pictures/wheelicons/MK8D_Roller.png",
-            "data": {
-                "wg": 0,
-                "ac": 6,
-                "on": 0,
-                "of": 4,
-                "mt": 6,
-                "sl": 0,
-                "sw": 3,
-                "sa": 0,
-                "sg": 3,
-                "tl": 4,
-                "tw": 4,
-                "ta": 4,
-                "tg": 4
-            }
-        },
-        {
-            "name": "Azure Roller",
-            "picture": "../pictures/wheelicons/MK8D_Azure_Roller.png",
-            "data": {
-                "wg": 0,
-                "ac": 6,
-                "on": 0,
-                "of": 4,
-                "mt": 6,
-                "sl": 0,
-                "sw": 3,
-                "sa": 0,
-                "sg": 3,
-                "tl": 4,
-                "tw": 4,
-                "ta": 4,
-                "tg": 4
-            }
-        },
-        {
-            "name": "Button",
-            "picture": "../pictures/wheelicons/MK8D_Button.png",
-            "data": {
-                "wg": 0,
-                "ac": 5,
-                "on": 1,
-                "of": 3,
-                "mt": 5,
-                "sl": 1,
-                "sw": 2,
-                "sa": 2,
-                "sg": 2,
-                "tl": 2,
-                "tw": 3,
-                "ta": 4,
-                "tg": 2
-            }
-        },
-        {
-            "name": "Leaf Tires",
-            "picture": "../pictures/wheelicons/MK8D_Leaf_Tires.png",
-            "data": {
-                "wg": 0,
-                "ac": 5,
-                "on": 1,
-                "of": 3,
-                "mt": 5,
-                "sl": 1,
-                "sw": 2,
-                "sa": 2,
-                "sg": 2,
-                "tl": 2,
-                "tw": 3,
-                "ta": 4,
-                "tg": 2
-            }
-        },
-        {
-            "name": "Sponge",
-            "picture": "../pictures/wheelicons/MK8D_Sponge.png",
-            "data": {
-                "wg": 1,
-                "ac": 4,
-                "on": 2,
-                "of": 6,
-                "mt": 4,
-                "sl": 1,
-                "sw": 1,
-                "sa": 1,
-                "sg": 4,
-                "tl": 2,
-                "tw": 1,
-                "ta": 2,
-                "tg": 3
-            }
-        },
-        {
-            "name": "Cushion",
-            "picture": "../pictures/wheelicons/MK8D_Cushion.png",
-            "data": {
-                "wg": 1,
-                "ac": 4,
-                "on": 2,
-                "of": 6,
-                "mt": 4,
-                "sl": 1,
-                "sw": 1,
-                "sa": 1,
-                "sg": 4,
-                "tl": 2,
-                "tw": 1,
-                "ta": 2,
-                "tg": 3
-            }
-        },
+    "WHEELS":[
         {
             "name": "Standard",
             "picture": "../pictures/wheelicons/MK8D_Standard.png",
             "data": {
-                "wg": 2,
-                "ac": 4,
-                "on": 2,
-                "of": 5,
-                "mt": 3,
-                "sl": 2,
-                "sw": 3,
-                "sa": 2,
-                "sg": 3,
-                "tl": 3,
-                "tw": 3,
-                "ta": 3,
-                "tg": 3
+                "speed": {
+                    "ground": 2,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 2
+                },
+                "acceleration": 4,
+                "weight": 2,
+                "handling": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 5,
+                "miniTurbo": 4,
+                "invincibility": 3
             }
         },
         {
             "name": "Blue Standard",
             "picture": "../pictures/wheelicons/MK8D_Blue_Standard.png",
             "data": {
-                "wg": 2,
-                "ac": 4,
-                "on": 2,
-                "of": 5,
-                "mt": 3,
-                "sl": 2,
-                "sw": 3,
-                "sa": 2,
-                "sg": 3,
-                "tl": 3,
-                "tw": 3,
-                "ta": 3,
-                "tg": 3
+                "speed": {
+                    "ground": 2,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 2
+                },
+                "acceleration": 4,
+                "weight": 2,
+                "handling": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 5,
+                "miniTurbo": 4,
+                "invincibility": 3
             }
         },
         {
             "name": "GLA Tires",
             "picture": "../pictures/wheelicons/MK8D_GLA_Tires.png",
             "data": {
-                "wg": 2,
-                "ac": 4,
-                "on": 2,
-                "of": 5,
-                "mt": 3,
-                "sl": 2,
-                "sw": 3,
-                "sa": 2,
-                "sg": 3,
-                "tl": 3,
-                "tw": 3,
-                "ta": 3,
-                "tg": 3
-            }
-        },
-        {
-            "name": "Wood",
-            "picture": "../pictures/wheelicons/MK8D_Wood.png",
-            "data": {
-                "wg": 2,
-                "ac": 2,
-                "on": 4,
-                "of": 1,
-                "mt": 2,
-                "sl": 3,
-                "sw": 2,
-                "sa": 4,
-                "sg": 2,
-                "tl": 4,
-                "tw": 4,
-                "ta": 3,
-                "tg": 4
-            }
-        },
-        {
-            "name": "Crimson Slim",
-            "picture": "../pictures/wheelicons/MK8D_Crimson_Slim.png",
-            "data": {
-                "wg": 2,
-                "ac": 2,
-                "on": 4,
-                "of": 1,
-                "mt": 2,
-                "sl": 3,
-                "sw": 2,
-                "sa": 4,
-                "sg": 2,
-                "tl": 4,
-                "tw": 4,
-                "ta": 3,
-                "tg": 4
-            }
-        },
-        {
-            "name": "Slick",
-            "picture": "../pictures/wheelicons/MK8D_Slick.png",
-            "data": {
-                "wg": 3,
-                "ac": 1,
-                "on": 4,
-                "of": 0,
-                "mt": 0,
-                "sl": 4,
-                "sw": 0,
-                "sa": 4,
-                "sg": 0,
-                "tl": 2,
-                "tw": 0,
-                "ta": 2,
-                "tg": 1
-            }
-        },
-        {
-            "name": "Cyber Slick",
-            "picture": "../pictures/wheelicons/MK8D_Cyber_Slick.png",
-            "data": {
-                "wg": 3,
-                "ac": 1,
-                "on": 4,
-                "of": 0,
-                "mt": 0,
-                "sl": 4,
-                "sw": 0,
-                "sa": 4,
-                "sg": 0,
-                "tl": 2,
-                "tw": 0,
-                "ta": 2,
-                "tg": 1
-            }
-        },
-        {
-            "name": "Off-Road",
-            "picture": "../pictures/wheelicons/MK8D_Off-Road.png",
-            "data": {
-                "wg": 3,
-                "ac": 3,
-                "on": 3,
-                "of": 6,
-                "mt": 1,
-                "sl": 3,
-                "sw": 4,
-                "sa": 2,
-                "sg": 1,
-                "tl": 1,
-                "tw": 1,
-                "ta": 2,
-                "tg": 2
-            }
-        },
-        {
-            "name": "Retro Off-Road",
-            "picture": "../pictures/wheelicons/MK8D_Retro_Off-Road.png",
-            "data": {
-                "wg": 3,
-                "ac": 3,
-                "on": 3,
-                "of": 6,
-                "mt": 1,
-                "sl": 3,
-                "sw": 4,
-                "sa": 2,
-                "sg": 1,
-                "tl": 1,
-                "tw": 1,
-                "ta": 2,
-                "tg": 2
-            }
-        },
-        {
-            "name": "Triforce Tires",
-            "picture": "../pictures/wheelicons/MK8D_Triforce_Tires.png",
-            "data": {
-                "wg": 3,
-                "ac": 3,
-                "on": 3,
-                "of": 6,
-                "mt": 1,
-                "sl": 3,
-                "sw": 4,
-                "sa": 2,
-                "sg": 1,
-                "tl": 1,
-                "tw": 1,
-                "ta": 2,
-                "tg": 2
-            }
-        },
-        {
-            "name": "Metal",
-            "picture": "../pictures/wheelicons/MK8D_Metal.png",
-            "data": {
-                "wg": 4,
-                "ac": 0,
-                "on": 1,
-                "of": 2,
-                "mt": 0,
-                "sl": 4,
-                "sw": 3,
-                "sa": 1,
-                "sg": 2,
-                "tl": 2,
-                "tw": 2,
-                "ta": 1,
-                "tg": 0
-            }
-        },
-        {
-            "name": "Gold Tires",
-            "picture": "../pictures/wheelicons/MK8D_Gold_Tires.png",
-            "data": {
-                "wg": 4,
-                "ac": 0,
-                "on": 1,
-                "of": 2,
-                "mt": 0,
-                "sl": 4,
-                "sw": 3,
-                "sa": 1,
-                "sg": 2,
-                "tl": 2,
-                "tw": 2,
-                "ta": 1,
-                "tg": 0
+                "speed": {
+                    "ground": 2,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 2
+                },
+                "acceleration": 4,
+                "weight": 2,
+                "handling": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 5,
+                "miniTurbo": 4,
+                "invincibility": 4
             }
         },
         {
             "name": "Monster",
             "picture": "../pictures/wheelicons/MK8D_Monster.png",
             "data": {
-                "wg": 4,
-                "ac": 2,
-                "on": 3,
-                "of": 7,
-                "mt": 2,
-                "sl": 2,
-                "sw": 2,
-                "sa": 2,
-                "sg": 1,
-                "tl": 0,
-                "tw": 1,
-                "ta": 0,
-                "tg": 1
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 1,
+                    "antigravity": 2
+                },
+                "acceleration": 2,
+                "weight": 4,
+                "handling": {
+                    "ground": 0,
+                    "water": 1,
+                    "air": 1,
+                    "antigravity": 0
+                },
+                "traction": 7,
+                "miniTurbo": 3,
+                "invincibility": 5
             }
-        },
-        {
+        },{
             "name": "Hot Monster",
             "picture": "../pictures/wheelicons/MK8D_Hot_Monster.png",
             "data": {
-                "wg": 4,
-                "ac": 2,
-                "on": 3,
-                "of": 7,
-                "mt": 2,
-                "sl": 2,
-                "sw": 2,
-                "sa": 2,
-                "sg": 1,
-                "tl": 0,
-                "tw": 1,
-                "ta": 0,
-                "tg": 1
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 1,
+                    "antigravity": 2
+                },
+                "acceleration": 2,
+                "weight": 4,
+                "handling": {
+                    "ground": 0,
+                    "water": 1,
+                    "air": 1,
+                    "antigravity": 0
+                },
+                "traction": 7,
+                "miniTurbo": 3,
+                "invincibility": 5
             }
         },
         {
             "name": "Ancient Tires",
             "picture": "../pictures/wheelicons/MK8D_Ancient_Tires.png",
             "data": {
-                "wg": 4,
-                "ac": 2,
-                "on": 3,
-                "of": 7,
-                "mt": 2,
-                "sl": 2,
-                "sw": 2,
-                "sa": 2,
-                "sg": 1,
-                "tl": 0,
-                "tw": 1,
-                "ta": 0,
-                "tg": 1
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 1,
+                    "antigravity": 2
+                },
+                "acceleration": 2,
+                "weight": 4,
+                "handling": {
+                    "ground": 0,
+                    "water": 1,
+                    "air": 1,
+                    "antigravity": 0
+                },
+                "traction": 7,
+                "miniTurbo": 3,
+                "invincibility": 4
+            }
+        },
+        {
+            "name": "Roller",
+            "picture": "../pictures/wheelicons/MK8D_Roller.png",
+            "data": {
+                "speed": {
+                    "ground": 0,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 0
+                },
+                "acceleration": 6,
+                "weight": 0,
+                "handling": {
+                    "ground": 4,
+                    "water": 4,
+                    "air": 4,
+                    "antigravity": 4
+                },
+                "traction": 4,
+                "miniTurbo": 6,
+                "invincibility": 0
+            }
+        },
+        {
+            "name": "Azure Roller",
+            "picture": "../pictures/wheelicons/MK8D_Azure_Roller.png",
+            "data": {
+                "speed": {
+                    "ground": 0,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 0
+                },
+                "acceleration": 6,
+                "weight": 0,
+                "handling": {
+                    "ground": 4,
+                    "water": 4,
+                    "air": 4,
+                    "antigravity": 4
+                },
+                "traction": 4,
+                "miniTurbo": 6,
+                "invincibility": 0
+            }
+        },
+        {
+            "name": "Slim",
+            "picture": "../pictures/wheelicons/MK8D_Slim.png",
+            "data": {
+                "speed": {
+                    "ground": 3,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "acceleration": 2,
+                "weight": 2,
+                "handling": {
+                    "ground": 4,
+                    "water": 4,
+                    "air": 4,
+                    "antigravity": 3
+                },
+                "traction": 1,
+                "miniTurbo": 3,
+                "invincibility": 4
+            }
+        },
+        {
+            "name": "Wood",
+            "picture": "../pictures/wheelicons/MK8D_Wood.png",
+            "data": {
+                "speed": {
+                    "ground": 3,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "acceleration": 2,
+                "weight": 2,
+                "handling": {
+                    "ground": 4,
+                    "water": 4,
+                    "air": 4,
+                    "antigravity": 3
+                },
+                "traction": 1,
+                "miniTurbo": 3,
+                "invincibility": 4
+            }
+        },
+        {
+            "name": "Crimson Slim",
+            "picture": "../pictures/wheelicons/MK8D_Crimson_Slim.png",
+            "data": {
+                "speed": {
+                    "ground": 3,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "acceleration": 2,
+                "weight": 2,
+                "handling": {
+                    "ground": 4,
+                    "water": 4,
+                    "air": 4,
+                    "antigravity": 3
+                },
+                "traction": 1,
+                "miniTurbo": 3,
+                "invincibility": 4
+            }
+        },
+        {
+            "name": "Slick",
+            "picture": "../pictures/wheelicons/MK8D_Slick.png",
+            "data": {
+                "speed": {
+                    "ground": 4,
+                    "water": 0,
+                    "air": 0,
+                    "antigravity": 4
+                },
+                "acceleration": 1,
+                "weight": 3,
+                "handling": {
+                    "ground": 2,
+                    "water": 0,
+                    "air": 1,
+                    "antigravity": 2
+                },
+                "traction": 0,
+                "miniTurbo": 1,
+                "invincibility": 4
+            }
+        },
+        {
+            "name": "Cyber Slick",
+            "picture": "../pictures/wheelicons/MK8D_Cyber_Slick.png",
+            "data": {
+                "speed": {
+                    "ground": 4,
+                    "water": 0,
+                    "air": 0,
+                    "antigravity": 4
+                },
+                "acceleration": 1,
+                "weight": 3,
+                "handling": {
+                    "ground": 2,
+                    "water": 0,
+                    "air": 1,
+                    "antigravity": 2
+                },
+                "traction": 0,
+                "miniTurbo": 1,
+                "invincibility": 4
+            }
+        },
+        {
+            "name": "Metal",
+            "picture": "../pictures/wheelicons/MK8D_Metal.png",
+            "data": {
+                "speed": {
+                    "ground": 4,
+                    "water": 3,
+                    "air": 2,
+                    "antigravity": 1
+                },
+                "acceleration": 0,
+                "weight": 4,
+                "handling": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 0,
+                    "antigravity": 1
+                },
+                "traction": 2,
+                "miniTurbo": 1,
+                "invincibility": 5
+            }
+        },
+        {
+            "name": "Gold Tires",
+            "picture": "../pictures/wheelicons/MK8D_Gold_Tires.png",
+            "data": {
+                "speed": {
+                    "ground": 4,
+                    "water": 3,
+                    "air": 2,
+                    "antigravity": 1
+                },
+                "acceleration": 0,
+                "weight": 4,
+                "handling": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 0,
+                    "antigravity": 1
+                },
+                "traction": 2,
+                "miniTurbo": 1,
+                "invincibility": 4
+            }
+        },
+        {
+            "name": "Button",
+            "picture": "../pictures/wheelicons/MK8D_Button.png",
+            "data": {
+                "speed": {
+                    "ground": 1,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 2
+                },
+                "acceleration": 5,
+                "weight": 0,
+                "handling": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "traction": 3,
+                "miniTurbo": 5,
+                "invincibility": 2
+            }
+        },
+        {
+            "name": "Leaf Tires",
+            "picture": "../pictures/wheelicons/MK8D_Leaf_Tires.png",
+            "data": {
+                "speed": {
+                    "ground": 1,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 2
+                },
+                "acceleration": 5,
+                "weight": 0,
+                "handling": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "traction": 3,
+                "miniTurbo": 5,
+                "invincibility": 2
+            }
+        },
+        {
+            "name": "Off-Road",
+            "picture": "../pictures/wheelicons/MK8D_Off-Road.png",
+            "data": {
+                "speed": {
+                    "ground": 3,
+                    "water": 4,
+                    "air": 1,
+                    "antigravity": 2
+                },
+                "acceleration": 3,
+                "weight": 3,
+                "handling": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 2,
+                    "antigravity": 2
+                },
+                "traction": 6,
+                "miniTurbo": 2,
+                "invincibility": 6
+            }
+        },
+        {
+            "name": "Retro Off-Road",
+            "picture": "../pictures/wheelicons/MK8D_Retro_Off-Road.png",
+            "data": {
+                "speed": {
+                    "ground": 3,
+                    "water": 4,
+                    "air": 1,
+                    "antigravity": 2
+                },
+                "acceleration": 3,
+                "weight": 3,
+                "handling": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 2,
+                    "antigravity": 2
+                },
+                "traction": 6,
+                "miniTurbo": 2,
+                "invincibility": 6
+            }
+        },
+        {
+            "name": "Triforce Tires",
+            "picture": "../pictures/wheelicons/MK8D_Triforce_Tires.png",
+            "data": {
+                "speed": {
+                    "ground": 3,
+                    "water": 4,
+                    "air": 1,
+                    "antigravity": 2
+                },
+                "acceleration": 3,
+                "weight": 3,
+                "handling": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 2,
+                    "antigravity": 2
+                },
+                "traction": 6,
+                "miniTurbo": 2,
+                "invincibility": 6
+            }
+        },
+        {
+            "name": "Sponge",
+            "picture": "../pictures/wheelicons/MK8D_Sponge.png",
+            "data": {
+                "speed": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 4,
+                    "antigravity": 1
+                },
+                "acceleration": 4,
+                "weight": 1,
+                "handling": {
+                    "ground": 2,
+                    "water": 1,
+                    "air": 3,
+                    "antigravity": 2
+                },
+                "traction": 6,
+                "miniTurbo": 5,
+                "invincibility": 3
+            }
+        },
+        {
+            "name": "Cushion",
+            "picture": "../pictures/wheelicons/MK8D_Cushion.png",
+            "data": {
+                "speed": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 4,
+                    "antigravity": 1
+                },
+                "acceleration": 4,
+                "weight": 1,
+                "handling": {
+                    "ground": 2,
+                    "water": 1,
+                    "air": 3,
+                    "antigravity": 2
+                },
+                "traction": 6,
+                "miniTurbo": 5,
+                "invincibility": 5
             }
         }
     ]
