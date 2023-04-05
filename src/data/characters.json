@@ -1,820 +1,969 @@
 {
     "CHARACTERS": [
         {
-            "name": "Bowser",
-            "picture": "../pictures/charactericons/MK8D_Bowser.png", 
+            "name": "Baby Peach",
+            "picture": "../pictures/charactericons/MK8D_Baby_Peach.png",
             "data": {
-                "wg": 10,
-                "ac": 0,
-                "on": 6,
-                "of": 0,
-                "mt": 0,
-                "sl": 10,
-                "sw": 10,
-                "sa": 10,
-                "sg": 10,
-                "tl": 0,
-                "tw": 0,
-                "ta": 0,
-                "tg": 0
+                "speed": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 1,
+                    "antigravity": 1
+                },
+                "acceleration": 4,
+                "weight": 0,
+                "handling": {
+                    "ground": 10,
+                    "water": 10,
+                    "air": 10,
+                    "antigravity": 10
+                },
+                "traction": 5,
+                "miniTurbo": 5,
+                "invincibility": 6
             }
         },
         {
-            "name": "Morton",
-            "picture": "../pictures/charactericons/MK8D_Morton.png", 
+            "name": "Baby Daisy",
+            "picture": "../pictures/charactericons/MK8D_Baby_Daisy.png",
             "data": {
-                "wg": 10,
-                "ac": 0,
-                "on": 6,
-                "of": 0,
-                "mt": 0,
-                "sl": 10,
-                "sw": 10,
-                "sa": 10,
-                "sg": 10,
-                "tl": 0,
-                "tw": 0,
-                "ta": 0,
-                "tg": 0
+                "speed": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 1,
+                    "antigravity": 1
+                },
+                "acceleration": 4,
+                "weight": 0,
+                "handling": {
+                    "ground": 10,
+                    "water": 10,
+                    "air": 10,
+                    "antigravity": 10
+                },
+                "traction": 5,
+                "miniTurbo": 5,
+                "invincibility": 6
+            }
+        },
+        {
+            "name": "Baby Rosalina",
+            "picture": "../pictures/charactericons/MK8D_Baby_Rosalina.png",
+            "data": {
+                "speed": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 1,
+                    "antigravity": 1
+                },
+                "acceleration": 5,
+                "weight": 0,
+                "handling": {
+                    "ground": 9,
+                    "water": 9,
+                    "air": 9,
+                    "antigravity": 9
+                },
+                "traction": 3,
+                "miniTurbo": 5,
+                "invincibility": 6
+            }
+        },
+        {
+            "name": "Lemmy",
+            "picture": "../pictures/charactericons/MK8D_Lemmy.png",
+            "data": {
+                "speed": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 1,
+                    "antigravity": 1
+                },
+                "acceleration": 5,
+                "weight": 0,
+                "handling": {
+                    "ground": 9,
+                    "water": 9,
+                    "air": 9,
+                    "antigravity": 9
+                },
+                "traction": 3,
+                "miniTurbo": 5,
+                "invincibility": 6
+            }
+        },
+        {
+            "name": "Baby Mario",
+            "picture": "../pictures/charactericons/MK8D_Baby_Mario.png",
+            "data": {
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 2
+                },
+                "acceleration": 5,
+                "weight": 1,
+                "handling": {
+                    "ground": 8,
+                    "water": 8,
+                    "air": 8,
+                    "antigravity": 8
+                },
+                "traction": 4,
+                "miniTurbo": 5,
+                "invincibility": 6
+            }
+        },
+        {
+            "name": "Baby Luigi",
+            "picture": "../pictures/charactericons/MK8D_Baby_Luigi.png",
+            "data": {
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 2
+                },
+                "acceleration": 5,
+                "weight": 1,
+                "handling": {
+                    "ground": 8,
+                    "water": 8,
+                    "air": 8,
+                    "antigravity": 8
+                },
+                "traction": 4,
+                "miniTurbo": 5,
+                "invincibility": 6
+            }
+        },
+        {
+            "name": "Dry Bones",
+            "picture": "../pictures/charactericons/MK8D_Dry_Bones.png",
+            "data": {
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 2
+                },
+                "acceleration": 5,
+                "weight": 1,
+                "handling": {
+                    "ground": 8,
+                    "water": 8,
+                    "air": 8,
+                    "antigravity": 8
+                },
+                "traction": 4,
+                "miniTurbo": 5,
+                "invincibility": 6
+            }
+        },
+        {
+            "name": "Toadette",
+            "picture": "../pictures/charactericons/MK8D_Toadette.png",
+            "data": {
+                "speed": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 5,
+                "weight": 2,
+                "handling": {
+                    "ground": 7,
+                    "water": 7,
+                    "air": 7,
+                    "antigravity": 7
+                },
+                "traction": 2,
+                "miniTurbo": 4,
+                "invincibility": 5
+            }
+        },
+        {
+            "name": "Wendy",
+            "picture": "../pictures/charactericons/MK8D_Wendy.png",
+            "data": {
+                "speed": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 5,
+                "weight": 2,
+                "handling": {
+                    "ground": 7,
+                    "water": 7,
+                    "air": 7,
+                    "antigravity": 7
+                },
+                "traction": 2,
+                "miniTurbo": 4,
+                "invincibility": 5
+            }
+        },
+        {
+            "name": "Isabelle",
+            "picture": "../pictures/charactericons/MK8D_Isabelle.png",
+            "data": {
+                "speed": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 5,
+                "weight": 2,
+                "handling": {
+                    "ground": 7,
+                    "water": 7,
+                    "air": 7,
+                    "antigravity": 7
+                },
+                "traction": 2,
+                "miniTurbo": 4,
+                "invincibility": 5
+            }
+        },
+        {
+            "name": "Koopa Troopa",
+            "picture": "../pictures/charactericons/MK8D_Koopa_Troopa.png",
+            "data": {
+                "speed": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 4,
+                "weight": 2,
+                "handling": {
+                    "ground": 8,
+                    "water": 8,
+                    "air": 8,
+                    "antigravity": 8
+                },
+                "traction": 5,
+                "miniTurbo": 4,
+                "invincibility": 5
+            }
+        },
+        {
+            "name": "Lakitu",
+            "picture": "../pictures/charactericons/MK8D_Lakitu.png",
+            "data": {
+                "speed": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 4,
+                "weight": 2,
+                "handling": {
+                    "ground": 8,
+                    "water": 8,
+                    "air": 8,
+                    "antigravity": 8
+                },
+                "traction": 5,
+                "miniTurbo": 4,
+                "invincibility": 5
+            }
+        },
+        {
+            "name": "Bowser Jr.",
+            "picture": "../pictures/charactericons/MK8D_Bowser_Jr.png",
+            "data": {
+                "speed": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 4,
+                "weight": 2,
+                "handling": {
+                    "ground": 8,
+                    "water": 8,
+                    "air": 8,
+                    "antigravity": 8
+                },
+                "traction": 5,
+                "miniTurbo": 4,
+                "invincibility": 5
+            }
+        },
+        {
+            "name": "Toad",
+            "picture": "../pictures/charactericons/MK8D_Toad.png",
+            "data": {
+                "speed": {
+                    "ground": 4,
+                    "water": 4,
+                    "air": 4,
+                    "antigravity": 4
+                },
+                "acceleration": 4,
+                "weight": 3,
+                "handling": {
+                    "ground": 7,
+                    "water": 7,
+                    "air": 7,
+                    "antigravity": 7
+                },
+                "traction": 4,
+                "miniTurbo": 4,
+                "invincibility": 4
+            }
+        },
+        {
+            "name": "Shy Guy",
+            "picture": "../pictures/charactericons/MK8D_Shy_Guy.png",
+            "data": {
+                "speed": {
+                    "ground": 4,
+                    "water": 4,
+                    "air": 4,
+                    "antigravity": 4
+                },
+                "acceleration": 4,
+                "weight": 3,
+                "handling": {
+                    "ground": 7,
+                    "water": 7,
+                    "air": 7,
+                    "antigravity": 7
+                },
+                "traction": 4,
+                "miniTurbo": 4,
+                "invincibility": 4
+            }
+        },
+        {
+            "name": "Larry",
+            "picture": "../pictures/charactericons/MK8D_Larry.png",
+            "data": {
+                "speed": {
+                    "ground": 4,
+                    "water": 4,
+                    "air": 4,
+                    "antigravity": 4
+                },
+                "acceleration": 4,
+                "weight": 3,
+                "handling": {
+                    "ground": 7,
+                    "water": 7,
+                    "air": 7,
+                    "antigravity": 7
+                },
+                "traction": 4,
+                "miniTurbo": 4,
+                "invincibility": 4
+            }
+        },
+        {
+            "name": "Cat Peach",
+            "picture": "../pictures/charactericons/MK8D_Cat_Peach.png",
+            "data": {
+                "speed": {
+                    "ground": 5,
+                    "water": 5,
+                    "air": 5,
+                    "antigravity": 5
+                },
+                "acceleration": 4,
+                "weight": 3,
+                "handling": {
+                    "ground": 6,
+                    "water": 6,
+                    "air": 6,
+                    "antigravity": 6
+                },
+                "traction": 3,
+                "miniTurbo": 3,
+                "invincibility": 4
+            }
+        },
+        {
+            "name": "Inkling Girl",
+            "picture": "../pictures/charactericons/MK8D_Inkling_Girl.png",
+            "data": {
+                "speed": {
+                    "ground": 5,
+                    "water": 5,
+                    "air": 5,
+                    "antigravity": 5
+                },
+                "acceleration": 4,
+                "weight": 3,
+                "handling": {
+                    "ground": 6,
+                    "water": 6,
+                    "air": 6,
+                    "antigravity": 6
+                },
+                "traction": 3,
+                "miniTurbo": 3,
+                "invincibility": 4
+            }
+        },
+        {
+            "name": "Villager Girl",
+            "picture": "../pictures/charactericons/MK8D_Villager_Girl.png",
+            "data": {
+                "speed": {
+                    "ground": 5,
+                    "water": 5,
+                    "air": 5,
+                    "antigravity": 5
+                },
+                "acceleration": 4,
+                "weight": 3,
+                "handling": {
+                    "ground": 6,
+                    "water": 6,
+                    "air": 6,
+                    "antigravity": 6
+                },
+                "traction": 3,
+                "miniTurbo": 3,
+                "invincibility": 4
+            }
+        },
+        {
+            "name": "Peach",
+            "picture": "../pictures/charactericons/MK8D_Peach.png",
+            "data": {
+                "speed": {
+                    "ground": 6,
+                    "water": 6,
+                    "air": 6,
+                    "antigravity": 6
+                },
+                "acceleration": 3,
+                "weight": 4,
+                "handling": {
+                    "ground": 5,
+                    "water": 5,
+                    "air": 5,
+                    "antigravity": 5
+                },
+                "traction": 3,
+                "miniTurbo": 4,
+                "invincibility": 3
+            }
+        },
+        {
+            "name": "Daisy",
+            "picture": "../pictures/charactericons/MK8D_Daisy.png",
+            "data": {
+                "speed": {
+                    "ground": 6,
+                    "water": 6,
+                    "air": 6,
+                    "antigravity": 6
+                },
+                "acceleration": 3,
+                "weight": 4,
+                "handling": {
+                    "ground": 5,
+                    "water": 5,
+                    "air": 5,
+                    "antigravity": 5
+                },
+                "traction": 3,
+                "miniTurbo": 4,
+                "invincibility": 3
+            }
+        },
+        {
+            "name": "Birdo",
+            "picture": "../pictures/charactericons/MK8D_Birdo.png",
+            "data": {
+                "speed": {
+                    "ground": 6,
+                    "water": 6,
+                    "air": 6,
+                    "antigravity": 6
+                },
+                "acceleration": 3,
+                "weight": 4,
+                "handling": {
+                    "ground": 5,
+                    "water": 5,
+                    "air": 5,
+                    "antigravity": 5
+                },
+                "traction": 3,
+                "miniTurbo": 4,
+                "invincibility": 3
+            }
+        },
+        {
+            "name": "Yoshi",
+            "picture": "../pictures/charactericons/MK8D_Yoshi.png",
+            "data": {
+                "speed": {
+                    "ground": 6,
+                    "water": 6,
+                    "air": 6,
+                    "antigravity": 6
+                },
+                "acceleration": 3,
+                "weight": 4,
+                "handling": {
+                    "ground": 5,
+                    "water": 5,
+                    "air": 5,
+                    "antigravity": 5
+                },
+                "traction": 3,
+                "miniTurbo": 4,
+                "invincibility": 3
+            }
+        },
+        {
+            "name": "Tanooki Mario",
+            "picture": "../pictures/charactericons/MK8D_Tanooki_Mario.png",
+            "data": {
+                "speed": {
+                    "ground": 6,
+                    "water": 6,
+                    "air": 6,
+                    "antigravity": 6
+                },
+                "acceleration": 3,
+                "weight": 5,
+                "handling": {
+                    "ground": 5,
+                    "water": 5,
+                    "air": 5,
+                    "antigravity": 5
+                },
+                "traction": 1,
+                "miniTurbo": 3,
+                "invincibility": 3
+            }
+        },
+        {
+            "name": "Inkling Boy",
+            "picture": "../pictures/charactericons/MK8D_Inkling_Boy.png",
+            "data": {
+                "speed": {
+                    "ground": 6,
+                    "water": 6,
+                    "air": 6,
+                    "antigravity": 6
+                },
+                "acceleration": 3,
+                "weight": 5,
+                "handling": {
+                    "ground": 5,
+                    "water": 5,
+                    "air": 5,
+                    "antigravity": 5
+                },
+                "traction": 1,
+                "miniTurbo": 3,
+                "invincibility": 3
+            }
+        },
+        {
+            "name": "Villager Boy",
+            "picture": "../pictures/charactericons/MK8D_Villager_Boy.png",
+            "data": {
+                "speed": {
+                    "ground": 6,
+                    "water": 6,
+                    "air": 6,
+                    "antigravity": 6
+                },
+                "acceleration": 3,
+                "weight": 5,
+                "handling": {
+                    "ground": 5,
+                    "water": 5,
+                    "air": 5,
+                    "antigravity": 5
+                },
+                "traction": 1,
+                "miniTurbo": 3,
+                "invincibility": 3
+            }
+        },
+        {
+            "name": "Mario",
+            "picture": "../pictures/charactericons/MK8D_Mario.png",
+            "data": {
+                "speed": {
+                    "ground": 7,
+                    "water": 7,
+                    "air": 7,
+                    "antigravity": 7
+                },
+                "acceleration": 2,
+                "weight": 6,
+                "handling": {
+                    "ground": 4,
+                    "water": 4,
+                    "air": 4,
+                    "antigravity": 4
+                },
+                "traction": 2,
+                "miniTurbo": 3,
+                "invincibility": 3
+            }
+        },
+        {
+            "name": "Ludwig",
+            "picture": "../pictures/charactericons/MK8D_Ludwig.png",
+            "data": {
+                "speed": {
+                    "ground": 7,
+                    "water": 7,
+                    "air": 7,
+                    "antigravity": 7
+                },
+                "acceleration": 2,
+                "weight": 6,
+                "handling": {
+                    "ground": 4,
+                    "water": 4,
+                    "air": 4,
+                    "antigravity": 4
+                },
+                "traction": 2,
+                "miniTurbo": 3,
+                "invincibility": 3
+            }
+        },
+        {
+            "name": "Luigi",
+            "picture": "../pictures/charactericons/MK8D_Luigi.png",
+            "data": {
+                "speed": {
+                    "ground": 7,
+                    "water": 7,
+                    "air": 7,
+                    "antigravity": 7
+                },
+                "acceleration": 2,
+                "weight": 6,
+                "handling": {
+                    "ground": 5,
+                    "water": 5,
+                    "air": 5,
+                    "antigravity": 5
+                },
+                "traction": 1,
+                "miniTurbo": 3,
+                "invincibility": 3
+            }
+        },
+        {
+            "name": "Iggy",
+            "picture": "../pictures/charactericons/MK8D_Iggy.png",
+            "data": {
+                "speed": {
+                    "ground": 7,
+                    "water": 7,
+                    "air": 7,
+                    "antigravity": 7
+                },
+                "acceleration": 2,
+                "weight": 6,
+                "handling": {
+                    "ground": 5,
+                    "water": 5,
+                    "air": 5,
+                    "antigravity": 5
+                },
+                "traction": 1,
+                "miniTurbo": 3,
+                "invincibility": 3
+            }
+        },
+        {
+            "name": "Metal Mario",
+            "picture": "../pictures/charactericons/MK8D_Metal_Mario.png",
+            "data": {
+                "speed": {
+                    "ground": 8,
+                    "water": 8,
+                    "air": 8,
+                    "antigravity": 8
+                },
+                "acceleration": 1,
+                "weight": 10,
+                "handling": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 1,
+                "miniTurbo": 1,
+                "invincibility": 1
+            }
+        },
+        {
+            "name": "Pink Gold Peach",
+            "picture": "../pictures/charactericons/MK8D_Pink_Gold_Peach.png",
+            "data": {
+                "speed": {
+                    "ground": 8,
+                    "water": 8,
+                    "air": 8,
+                    "antigravity": 8
+                },
+                "acceleration": 1,
+                "weight": 10,
+                "handling": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 1,
+                "miniTurbo": 1,
+                "invincibility": 1
+            }
+        },
+        {
+            "name": "Rosalina",
+            "picture": "../pictures/charactericons/MK8D_Rosalina.png",
+            "data": {
+                "speed": {
+                    "ground": 8,
+                    "water": 8,
+                    "air": 8,
+                    "antigravity": 8
+                },
+                "acceleration": 1,
+                "weight": 7,
+                "handling": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 3,
+                "miniTurbo": 2,
+                "invincibility": 2
+            }
+        },
+        {
+            "name": "King Boo",
+            "picture": "../pictures/charactericons/MK8D_King_Boo.png",
+            "data": {
+                "speed": {
+                    "ground": 8,
+                    "water": 8,
+                    "air": 8,
+                    "antigravity": 8
+                },
+                "acceleration": 1,
+                "weight": 7,
+                "handling": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 3,
+                "miniTurbo": 2,
+                "invincibility": 2
+            }
+        },
+        {
+            "name": "Link",
+            "picture": "../pictures/charactericons/MK8D_Link.png",
+            "data": {
+                "speed": {
+                    "ground": 8,
+                    "water": 8,
+                    "air": 8,
+                    "antigravity": 8
+                },
+                "acceleration": 1,
+                "weight": 7,
+                "handling": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 3,
+                "miniTurbo": 2,
+                "invincibility": 2
+            }
+        },
+        {
+            "name": "Waluigi",
+            "picture": "../pictures/charactericons/MK8D_Waluigi.png",
+            "data": {
+                "speed": {
+                    "ground": 9,
+                    "water": 9,
+                    "air": 9,
+                    "antigravity": 9
+                },
+                "acceleration": 1,
+                "weight": 8,
+                "handling": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 2
+                },
+                "traction": 0,
+                "miniTurbo": 1,
+                "invincibility": 1
+            }
+        },
+        {
+            "name": "Donkey Kong",
+            "picture": "../pictures/charactericons/MK8D_Donkey_Kong.png",
+            "data": {
+                "speed": {
+                    "ground": 9,
+                    "water": 9,
+                    "air": 9,
+                    "antigravity": 9
+                },
+                "acceleration": 1,
+                "weight": 8,
+                "handling": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 2
+                },
+                "traction": 0,
+                "miniTurbo": 1,
+                "invincibility": 1
+            }
+        },
+        {
+            "name": "Roy",
+            "picture": "../pictures/charactericons/MK8D_Roy.png",
+            "data": {
+                "speed": {
+                    "ground": 9,
+                    "water": 9,
+                    "air": 9,
+                    "antigravity": 9
+                },
+                "acceleration": 1,
+                "weight": 8,
+                "handling": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 2
+                },
+                "traction": 0,
+                "miniTurbo": 1,
+                "invincibility": 1
             }
         },
         {
             "name": "Wario",
             "picture": "../pictures/charactericons/MK8D_Wario.png",
             "data": {
-                "wg": 9,
-                "ac": 0,
-                "on": 5,
-                "of": 1,
-                "mt": 0,
-                "sl": 10,
-                "sw": 10,
-                "sa": 10,
-                "sg": 10,
-                "tl": 1,
-                "tw": 1,
-                "ta": 1,
-                "tg": 1
+                "speed": {
+                    "ground": 10,
+                    "water": 10,
+                    "air": 10,
+                    "antigravity": 10
+                },
+                "acceleration": 0,
+                "weight": 9,
+                "handling": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 1,
+                    "antigravity": 1
+                },
+                "traction": 1,
+                "miniTurbo": 0,
+                "invincibility": 1
             }
         },
         {
             "name": "Dry Bowser",
             "picture": "../pictures/charactericons/MK8D_Dry_Bowser.png",
             "data": {
-                "wg": 9,
-                "ac": 0,
-                "on": 5,
-                "of": 1,
-                "mt": 0,
-                "sl": 10,
-                "sw": 10,
-                "sa": 10,
-                "sg": 10,
-                "tl": 1,
-                "tw": 1,
-                "ta": 1,
-                "tg": 1
+                "speed": {
+                    "ground": 10,
+                    "water": 10,
+                    "air": 10,
+                    "antigravity": 10
+                },
+                "acceleration": 0,
+                "weight": 9,
+                "handling": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 1,
+                    "antigravity": 1
+                },
+                "traction": 1,
+                "miniTurbo": 0,
+                "invincibility": 1
             }
         },
         {
-            "name": "Metal Mario",
-            "picture": "../pictures/charactericons/MK8D_Metal_Mario.png", 
+            "name": "Bowser",
+            "picture": "../pictures/charactericons/MK8D_Bowser.png",
             "data": {
-                "wg": 10,
-                "ac": 1,
-                "on": 8,
-                "of": 1,
-                "mt": 1,
-                "sl": 8,
-                "sw": 8,
-                "sa": 8,
-                "sg": 8,
-                "tl": 3,
-                "tw": 3,
-                "ta": 3,
-                "tg": 3
+                "speed": {
+                    "ground": 10,
+                    "water": 10,
+                    "air": 10,
+                    "antigravity": 10
+                },
+                "acceleration": 0,
+                "weight": 10,
+                "handling": {
+                    "ground": 0,
+                    "water": 0,
+                    "air": 0,
+                    "antigravity": 0
+                },
+                "traction": 0,
+                "miniTurbo": 0,
+                "invincibility": 1
             }
         },
         {
-            "name": "Pink Gold Peach",
-            "picture": "../pictures/charactericons/MK8D_Pink_Gold_Peach.png", 
+            "name": "Morton",
+            "picture": "../pictures/charactericons/MK8D_Bowser.png",
             "data": {
-                "wg": 10,
-                "ac": 1,
-                "on": 8,
-                "of": 1,
-                "mt": 1,
-                "sl": 8,
-                "sw": 8,
-                "sa": 8,
-                "sg": 8,
-                "tl": 3,
-                "tw": 3,
-                "ta": 3,
-                "tg": 3
-            }
-        },
-        {
-            "name": "Gold Mario",
-            "picture": "../pictures/charactericons/MK8D_Gold_Mario.png", 
-            "data": {
-                "wg": 10,
-                "ac": 1,
-                "on": 8,
-                "of": 1,
-                "mt": 1,
-                "sl": 8,
-                "sw": 8,
-                "sa": 8,
-                "sg": 8,
-                "tl": 3,
-                "tw": 3,
-                "ta": 3,
-                "tg": 3
-            }
-        },
-        {
-            "name": "Waluigi",
-            "picture": "../pictures/charactericons/MK8D_Waluigi.png", 
-            "data": {
-                "wg": 8,
-                "ac": 1,
-                "on": 10,
-                "of": 0,
-                "mt": 1,
-                "sl": 9,
-                "sw": 9,
-                "sa": 9,
-                "sg": 9,
-                "tl": 2,
-                "tw": 2,
-                "ta": 2,
-                "tg": 2
-            }
-        },
-        {
-            "name": "Roy",
-            "picture": "../pictures/charactericons/MK8D_Roy.png", 
-            "data": {
-                "wg": 8,
-                "ac": 1,
-                "on": 10,
-                "of": 0,
-                "mt": 1,
-                "sl": 9,
-                "sw": 9,
-                "sa": 9,
-                "sg": 9,
-                "tl": 2,
-                "tw": 2,
-                "ta": 2,
-                "tg": 2
-            }
-        },
-        {
-            "name": "Donkey Kong",
-            "picture": "../pictures/charactericons/MK8D_Donkey_Kong.png", 
-            "data": {
-                "wg": 8,
-                "ac": 1,
-                "on": 10,
-                "of": 0,
-                "mt": 1,
-                "sl": 9,
-                "sw": 9,
-                "sa": 9,
-                "sg": 9,
-                "tl": 2,
-                "tw": 2,
-                "ta": 2,
-                "tg": 2
-            }
-        },
-        {
-            "name": "Rosalina",
-            "picture": "../pictures/charactericons/MK8D_Rosalina.png",  
-            "data": {
-                "wg": 7,
-                "ac": 1,
-                "on": 9,
-                "of": 3,
-                "mt": 2,
-                "sl": 7,
-                "sw": 7,
-                "sa": 7,
-                "sg": 7,
-                "tl": 3,
-                "tw": 3,
-                "ta": 3,
-                "tg": 3
-            }
-        },
-        {
-            "name": "King Boo",
-            "picture": "../pictures/charactericons/MK8D_King_Boo.png", 
-            "data": {
-                "wg": 7,
-                "ac": 1,
-                "on": 9,
-                "of": 3,
-                "mt": 2,
-                "sl": 7,
-                "sw": 7,
-                "sa": 7,
-                "sg": 7,
-                "tl": 3,
-                "tw": 3,
-                "ta": 3,
-                "tg": 3
-            }
-        },
-        {
-            "name": "Link",
-            "picture": "../pictures/charactericons/MK8D_Link.png", 
-            "data": {
-                "wg": 7,
-                "ac": 1,
-                "on": 9,
-                "of": 3,
-                "mt": 2,
-                "sl": 7,
-                "sw": 7,
-                "sa": 7,
-                "sg": 7,
-                "tl": 3,
-                "tw": 3,
-                "ta": 3,
-                "tg": 3
-            }
-        },
-        {
-            "name": "Iggy",
-            "picture": "../pictures/charactericons/MK8D_Iggy.png", 
-            "data": {
-                "wg": 6,
-                "ac": 2,
-                "on": 5,
-                "of": 1,
-                "mt": 2,
-                "sl": 6,
-                "sw": 6,
-                "sa": 6,
-                "sg": 6,
-                "tl": 5,
-                "tw": 5,
-                "ta": 5,
-                "tg": 5
-            }
-        },
-        {
-            "name": "Lugi",
-            "picture": "../pictures/charactericons/MK8D_Luigi.png", 
-            "data": {
-                "wg": 6,
-                "ac": 2,
-                "on": 5,
-                "of": 1,
-                "mt": 2,
-                "sl": 6,
-                "sw": 6,
-                "sa": 6,
-                "sg": 6,
-                "tl": 5,
-                "tw": 5,
-                "ta": 5,
-                "tg": 5
-            }
-        },
-        {
-            "name": "Ludwig",
-            "picture": "../pictures/charactericons/MK8D_Ludwig.png", 
-            "data": {
-                "wg": 6,
-                "ac": 2,
-                "on": 4,
-                "of": 2,
-                "mt": 2,
-                "sl": 6,
-                "sw": 6,
-                "sa": 6,
-                "sg": 6,
-                "tl": 4,
-                "tw": 4,
-                "ta": 4,
-                "tg": 4
-            }
-        },
-        {
-            "name": "Mario",
-            "picture": "../pictures/charactericons/MK8D_Mario.png", 
-            "data": {
-                "wg": 6,
-                "ac": 2,
-                "on": 4,
-                "of": 2,
-                "mt": 2,
-                "sl": 6,
-                "sw": 6,
-                "sa": 6,
-                "sg": 6,
-                "tl": 4,
-                "tw": 4,
-                "ta": 4,
-                "tg": 4
-            }
-        },
-        {
-            "name": "Inkling Boy",
-            "picture": "../pictures/charactericons/MK8D_Inkling_Boy.png", 
-            "data": {
-                "wg": 5,
-                "ac": 3,
-                "on": 7,
-                "of": 1,
-                "mt": 3,
-                "sl": 5,
-                "sw": 5,
-                "sa": 5,
-                "sg": 5,
-                "tl": 5,
-                "tw": 5,
-                "ta": 5,
-                "tg": 5
-            }
-        },
-        {
-            "name": "Villager Boy",
-            "picture": "../pictures/charactericons/MK8D_Villager_Boy.png", 
-            "data": {
-                "wg": 5,
-                "ac": 3,
-                "on": 7,
-                "of": 1,
-                "mt": 3,
-                "sl": 5,
-                "sw": 5,
-                "sa": 5,
-                "sg": 5,
-                "tl": 5,
-                "tw": 5,
-                "ta": 5,
-                "tg": 5
-            }
-        },
-        {
-            "name": "Tanooki Mario",
-            "picture": "../pictures/charactericons/MK8D_Tanooki_Mario.png",  
-            "data": {
-                "wg": 5,
-                "ac": 3,
-                "on": 7,
-                "of": 1,
-                "mt": 3,
-                "sl": 5,
-                "sw": 5,
-                "sa": 5,
-                "sg": 5,
-                "tl": 5,
-                "tw": 5,
-                "ta": 5,
-                "tg": 5
-            }
-        },
-        {
-            "name": "Yoshi",
-            "picture": "../pictures/charactericons/MK8D_Yoshi.png", 
-            "data": {
-                "wg": 4,
-                "ac": 3,
-                "on": 3,
-                "of": 3,
-                "mt": 3,
-                "sl": 5,
-                "sw": 5,
-                "sa": 5,
-                "sg": 5,
-                "tl": 5,
-                "tw": 5,
-                "ta": 5,
-                "tg": 5
-            }
-        },
-        {
-            "name": "Princess Peach",
-            "picture": "../pictures/charactericons/MK8D_Princess_Peach.png", 
-            "data": {
-                "wg": 4,
-                "ac": 3,
-                "on": 3,
-                "of": 3,
-                "mt": 3,
-                "sl": 5,
-                "sw": 5,
-                "sa": 5,
-                "sg": 5,
-                "tl": 5,
-                "tw": 5,
-                "ta": 5,
-                "tg": 5
-            }
-        },
-        {
-            "name": "Princess Daisy",
-            "picture": "../pictures/charactericons/MK8D_Princess_Daisy.png", 
-            "data": {
-                "wg": 4,
-                "ac": 3,
-                "on": 3,
-                "of": 3,
-                "mt": 3,
-                "sl": 5,
-                "sw": 5,
-                "sa": 5,
-                "sg": 5,
-                "tl": 5,
-                "tw": 5,
-                "ta": 5,
-                "tg": 5
-            }
-        },
-        {
-            "name": "Toad",
-            "picture": "../pictures/charactericons/MK8D_Toad.png", 
-            "data": {
-                "wg": 3,
-                "ac": 4,
-                "on": 3,
-                "of": 4,
-                "mt": 3,
-                "sl": 3,
-                "sw": 3,
-                "sa": 3,
-                "sg": 3,
-                "tl": 7,
-                "tw": 7,
-                "ta": 7,
-                "tg": 7
-            }
-        },
-        {
-            "name": "Shyguy",
-            "picture": "../pictures/charactericons/MK8D_Shy_Guy.png", 
-            "data": {
-                "wg": 3,
-                "ac": 4,
-                "on": 3,
-                "of": 4,
-                "mt": 3,
-                "sl": 3,
-                "sw": 3,
-                "sa": 3,
-                "sg": 3,
-                "tl": 7,
-                "tw": 7,
-                "ta": 7,
-                "tg": 7
-            }
-        },
-        {
-            "name": "Larry",
-            "picture": "../pictures/charactericons/MK8D_Larry.png", 
-            "data": {
-                "wg": 3,
-                "ac": 4,
-                "on": 3,
-                "of": 4,
-                "mt": 3,
-                "sl": 3,
-                "sw": 3,
-                "sa": 3,
-                "sg": 3,
-                "tl": 7,
-                "tw": 7,
-                "ta": 7,
-                "tg": 7
-            }
-        },
-        {
-            "name": "Inkling Girl",
-            "picture": "../pictures/charactericons/MK8D_Inkling_Girl.png", 
-            "data": {
-                "wg": 3,
-                "ac": 4,
-                "on": 2,
-                "of": 3,
-                "mt": 3,
-                "sl": 4,
-                "sw": 4,
-                "sa": 4,
-                "sg": 4,
-                "tl": 6,
-                "tw": 6,
-                "ta": 6,
-                "tg": 6
-            }
-        },
-        {
-            "name": "Villager Girl",
-            "picture": "../pictures/charactericons/MK8D_Villager_Girl.png", 
-            "data": {
-                "wg": 3,
-                "ac": 4,
-                "on": 2,
-                "of": 3,
-                "mt": 3,
-                "sl": 4,
-                "sw": 4,
-                "sa": 4,
-                "sg": 4,
-                "tl": 6,
-                "tw": 6,
-                "ta": 6,
-                "tg": 6
-            }
-        },
-        {
-            "name": "Cat Peach",
-            "picture": "../pictures/charactericons/MK8D_Cat_Peach.png", 
-            "data": {
-                "wg": 3,
-                "ac": 4,
-                "on": 2,
-                "of": 3,
-                "mt": 3,
-                "sl": 4,
-                "sw": 4,
-                "sa": 4,
-                "sg": 4,
-                "tl": 6,
-                "tw": 6,
-                "ta": 6,
-                "tg": 6
-            }
-        },
-        {
-            "name": "Isabelle",
-            "picture": "../pictures/charactericons/MK8D_Isabelle.png", 
-            "data": {
-                "wg": 2,
-                "ac": 5,
-                "on": 4,
-                "of": 2,
-                "mt": 4,
-                "sl": 2,
-                "sw": 2,
-                "sa": 2,
-                "sg": 2,
-                "tl": 7,
-                "tw": 7,
-                "ta": 7,
-                "tg": 7
-            }
-        },
-        {
-            "name": "Wendy",
-            "picture": "../pictures/charactericons/MK8D_Wendy.png", 
-            "data": {
-                "wg": 2,
-                "ac": 5,
-                "on": 4,
-                "of": 2,
-                "mt": 4,
-                "sl": 2,
-                "sw": 2,
-                "sa": 2,
-                "sg": 2,
-                "tl": 7,
-                "tw": 7,
-                "ta": 7,
-                "tg": 7
-            }
-        },
-        {
-            "name": "Toadette",
-            "picture": "../pictures/charactericons/MK8D_Toadette.png", 
-            "data": {
-                "wg": 2,
-                "ac": 5,
-                "on": 4,
-                "of": 2,
-                "mt": 4,
-                "sl": 2,
-                "sw": 2,
-                "sa": 2,
-                "sg": 2,
-                "tl": 7,
-                "tw": 7,
-                "ta": 7,
-                "tg": 7
-            }
-        },
-        {
-            "name": "Boswer Jr.",
-            "picture": "../pictures/charactericons/MK8D_Bowser_Jr.png",  
-            "data": {
-                "wg": 2,
-                "ac": 4,
-                "on": 1,
-                "of": 5,
-                "mt": 4,
-                "sl": 2,
-                "sw": 2,
-                "sa": 2,
-                "sg": 2,
-                "tl": 8,
-                "tw": 8,
-                "ta": 8,
-                "tg": 8
-            }
-        },
-        {
-            "name": "Lakitu",
-            "picture": "../pictures/charactericons/MK8D_Lakitu.png", 
-            "data": {
-                "wg": 2,
-                "ac": 4,
-                "on": 1,
-                "of": 5,
-                "mt": 4,
-                "sl": 2,
-                "sw": 2,
-                "sa": 2,
-                "sg": 2,
-                "tl": 8,
-                "tw": 8,
-                "ta": 8,
-                "tg": 8
-            }
-        },
-        {
-            "name": "Koopa Troopa",
-            "picture": "../pictures/charactericons/MK8D_Koopa_Troopa.png", 
-            "data": {
-                "wg": 2,
-                "ac": 4,
-                "on": 1,
-                "of": 5,
-                "mt": 4,
-                "sl": 2,
-                "sw": 2,
-                "sa": 2,
-                "sg": 2,
-                "tl": 8,
-                "tw": 8,
-                "ta": 8,
-                "tg": 8
-            }
-        },
-        {
-            "name": "Dry Bones",
-            "picture": "../pictures/charactericons/MK8D_Dry_Bones.png", 
-            "data": {
-                "wg": 1,
-                "ac": 5,
-                "on": 2,
-                "of": 4,
-                "mt": 4,
-                "sl": 1,
-                "sw": 1,
-                "sa": 1,
-                "sg": 1,
-                "tl": 8,
-                "tw": 8,
-                "ta": 8,
-                "tg": 8
-            }
-        },
-        {
-            "name": "Baby Mario",
-            "picture": "../pictures/charactericons/MK8D_Baby_Mario.png",  
-            "data": {
-                "wg": 1,
-                "ac": 5,
-                "on": 2,
-                "of": 4,
-                "mt": 4,
-                "sl": 1,
-                "sw": 1,
-                "sa": 1,
-                "sg": 1,
-                "tl": 8,
-                "tw": 8,
-                "ta": 8,
-                "tg": 8
-            }
-        },
-        {
-            "name": "Baby Luigi",
-            "picture": "../pictures/charactericons/MK8D_Baby_Luigi.png",  
-            "data": {
-                "wg": 1,
-                "ac": 5,
-                "on": 2,
-                "of": 4,
-                "mt": 4,
-                "sl": 1,
-                "sw": 1,
-                "sa": 1,
-                "sg": 1,
-                "tl": 8,
-                "tw": 8,
-                "ta": 8,
-                "tg": 8
-            }
-        },
-        {
-            "name": "Lemmy",
-            "picture": "../pictures/charactericons/MK8D_Lemmy.png", 
-            "data": {
-                "wg": 0,
-                "ac": 5,
-                "on": 4,
-                "of": 3,
-                "mt": 5,
-                "sl": 0,
-                "sw": 0,
-                "sa": 0,
-                "sg": 0,
-                "tl": 9,
-                "tw": 9,
-                "ta": 9,
-                "tg": 9
-            }
-        },
-        {
-            "name": "Baby Rosalina",
-            "picture": "../pictures/charactericons/MK8D_Baby_Rosalina.png", 
-            "data": {
-                "wg": 0,
-                "ac": 5,
-                "on": 4,
-                "of": 3,
-                "mt": 5,
-                "sl": 0,
-                "sw": 0,
-                "sa": 0,
-                "sg": 0,
-                "tl": 9,
-                "tw": 9,
-                "ta": 9,
-                "tg": 9
-            }
-        },
-        {
-            "name": "Baby Peach",
-            "picture": "../pictures/charactericons/MK8D_Baby_Peach.png", 
-            "data": {
-                "wg": 0,
-                "ac": 4,
-                "on": 3,
-                "of": 5,
-                "mt": 5,
-                "sl": 0,
-                "sw": 0,
-                "sa": 0,
-                "sg": 0,
-                "tl": 10,
-                "tw": 10,
-                "ta": 10,
-                "tg": 10
-            }
-        },
-        {
-            "name": "Baby Daisy",
-            "picture": "../pictures/charactericons/MK8D_Baby_Daisy.png", 
-            "data": {
-                "wg": 0,
-                "ac": 4,
-                "on": 3,
-                "of": 5,
-                "mt": 5,
-                "sl": 0,
-                "sw": 0,
-                "sa": 0,
-                "sg": 0,
-                "tl": 10,
-                "tw": 10,
-                "ta": 10,
-                "tg": 10
-            }
-        },
-        {
-            "name": "Mii",
-            "picture": "../pictures/charactericons/MK8D_Mii.png", 
-            "data": {
-                "wg": -1,
-                "ac": -1,
-                "on": -1,
-                "of": -1,
-                "mt": -1,
-                "sl": -1,
-                "sw": -1,
-                "sa": -1,
-                "sg": -1,
-                "tl": -1,
-                "tw": -1,
-                "ta": -1,
-                "tg": -1
+                "speed": {
+                    "ground": 10,
+                    "water": 10,
+                    "air": 10,
+                    "antigravity": 10
+                },
+                "acceleration": 0,
+                "weight": 10,
+                "handling": {
+                    "ground": 0,
+                    "water": 0,
+                    "air": 0,
+                    "antigravity": 0
+                },
+                "traction": 0,
+                "miniTurbo": 0,
+                "invincibility": 1
             }
         }
     ]

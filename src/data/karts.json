@@ -1,22 +1,26 @@
 {
-    "KARTS": [
+    "KARTS":[
         {
             "name": "Standard Kart",
             "picture": "../pictures/karticons/MK8D_Standard_Kart.png",
             "data": {
-                "wg": 2,
-                "ac": 4,
-                "on": 3,
-                "of": 3,
-                "mt": 4,
-                "sl": 3,
-                "sw": 3,
-                "sa": 3,
-                "sg": 3,
-                "tl": 3,
-                "tw": 2,
-                "ta": 3,
-                "tg": 3
+                "speed": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 4,
+                "weight": 2,
+                "handling": {
+                    "ground": 3,
+                    "water": 2,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 3,
+                "miniTurbo": 5,
+                "invincibility": 3
             },
             "inward": "false"
         },
@@ -24,39 +28,47 @@
             "name": "The Duke",
             "picture": "../pictures/karticons/MK8D_The_Duke.png",
             "data": {
-                "wg": 2,
-                "ac": 4,
-                "on": 3,
-                "of": 3,
-                "mt": 4,
-                "sl": 3,
-                "sw": 3,
-                "sa": 3,
-                "sg": 3,
-                "tl": 3,
-                "tw": 2,
-                "ta": 3,
-                "tg": 3
+                "speed": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 4,
+                "weight": 2,
+                "handling": {
+                    "ground": 3,
+                    "water": 2,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 3,
+                "miniTurbo": 5,
+                "invincibility": 3
             },
             "inward": "false"
         },
         {
             "name": "300 SL Roadster",
-            "picture": "../pictures/karticons/MK8D_300_SL_Roadster.png",
+            "picture": "../pictures/karticons/MK8D_Standard_Kart.png",
             "data": {
-                "wg": 2,
-                "ac": 4,
-                "on": 3,
-                "of": 3,
-                "mt": 4,
-                "sl": 3,
-                "sw": 3,
-                "sa": 3,
-                "sg": 3,
-                "tl": 3,
-                "tw": 2,
-                "ta": 3,
-                "tg": 3
+                "speed": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 4,
+                "weight": 2,
+                "handling": {
+                    "ground": 3,
+                    "water": 2,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 3,
+                "miniTurbo": 5,
+                "invincibility": 4
             },
             "inward": "false"
         },
@@ -64,19 +76,23 @@
             "name": "Pipe Frame",
             "picture": "../pictures/karticons/MK8D_Pipe_Frame.png",
             "data": {
-                "wg": 1,
-                "ac": 6,
-                "on": 3,
-                "of": 4,
-                "mt": 6,
-                "sl": 1,
-                "sw": 3,
-                "sa": 1,
-                "sg": 1,
-                "tl": 5,
-                "tw": 4,
-                "ta": 4,
-                "tg": 2
+                "speed": {
+                    "ground": 1,
+                    "water": 3,
+                    "air": 1,
+                    "antigravity": 1
+                },
+                "acceleration": 6,
+                "weight": 1,
+                "handling": {
+                    "ground": 5,
+                    "water": 4,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "traction": 4,
+                "miniTurbo": 6,
+                "invincibility": 2
             },
             "inward": "false"
         },
@@ -84,19 +100,23 @@
             "name": "Varmint",
             "picture": "../pictures/karticons/MK8D_Varmint.png",
             "data": {
-                "wg": 1,
-                "ac": 6,
-                "on": 3,
-                "of": 4,
-                "mt": 6,
-                "sl": 1,
-                "sw": 3,
-                "sa": 1,
-                "sg": 1,
-                "tl": 5,
-                "tw": 4,
-                "ta": 4,
-                "tg": 2
+                "speed": {
+                    "ground": 1,
+                    "water": 3,
+                    "air": 1,
+                    "antigravity": 1
+                },
+                "acceleration": 6,
+                "weight": 1,
+                "handling": {
+                    "ground": 5,
+                    "water": 4,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "traction": 4,
+                "miniTurbo": 6,
+                "invincibility": 1
             },
             "inward": "false"
         },
@@ -104,19 +124,23 @@
             "name": "City Tripper",
             "picture": "../pictures/karticons/MK8D_City_Tripper.png",
             "data": {
-                "wg": 1,
-                "ac": 6,
-                "on": 3,
-                "of": 4,
-                "mt": 6,
-                "sl": 1,
-                "sw": 3,
-                "sa": 1,
-                "sg": 1,
-                "tl": 5,
-                "tw": 4,
-                "ta": 4,
-                "tg": 2
+                "speed": {
+                    "ground": 1,
+                    "water": 3,
+                    "air": 1,
+                    "antigravity": 1
+                },
+                "acceleration": 6,
+                "weight": 1,
+                "handling": {
+                    "ground": 5,
+                    "water": 4,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "traction": 4,
+                "miniTurbo": 6,
+                "invincibility": 1
             },
             "inward": "false"
         },
@@ -124,19 +148,23 @@
             "name": "Mach 8",
             "picture": "../pictures/karticons/MK8D_Mach_8.png",
             "data": {
-                "wg": 3,
-                "ac": 3,
-                "on": 2,
-                "of": 4,
-                "mt": 4,
-                "sl": 3,
-                "sw": 3,
-                "sa": 5,
-                "sg": 4,
-                "tl": 2,
-                "tw": 2,
-                "ta": 4,
-                "tg": 2
+                "speed": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 4,
+                    "antigravity": 5
+                },
+                "acceleration": 3,
+                "weight": 3,
+                "handling": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "traction": 4,
+                "miniTurbo": 5,
+                "invincibility": 4
             },
             "inward": "false"
         },
@@ -144,19 +172,23 @@
             "name": "Sports Coupe",
             "picture": "../pictures/karticons/MK8D_Sports_Coupe.png",
             "data": {
-                "wg": 3,
-                "ac": 3,
-                "on": 2,
-                "of": 4,
-                "mt": 4,
-                "sl": 3,
-                "sw": 3,
-                "sa": 5,
-                "sg": 4,
-                "tl": 2,
-                "tw": 2,
-                "ta": 4,
-                "tg": 2
+                "speed": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 4,
+                    "antigravity": 5
+                },
+                "acceleration": 3,
+                "weight": 3,
+                "handling": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "traction": 4,
+                "miniTurbo": 5,
+                "invincibility": 4
             },
             "inward": "false"
         },
@@ -164,19 +196,23 @@
             "name": "Inkstriker",
             "picture": "../pictures/karticons/MK8D_Inkstriker.png",
             "data": {
-                "wg": 3,
-                "ac": 3,
-                "on": 2,
-                "of": 4,
-                "mt": 4,
-                "sl": 3,
-                "sw": 3,
-                "sa": 5,
-                "sg": 4,
-                "tl": 2,
-                "tw": 2,
-                "ta": 4,
-                "tg": 2
+                "speed": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 4,
+                    "antigravity": 5
+                },
+                "acceleration": 3,
+                "weight": 3,
+                "handling": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "traction": 4,
+                "miniTurbo": 5,
+                "invincibility": 3
             },
             "inward": "false"
         },
@@ -184,19 +220,23 @@
             "name": "Steel Driver",
             "picture": "../pictures/karticons/MK8D_Steel_Driver.png",
             "data": {
-                "wg": 4,
-                "ac": 1,
-                "on": 1,
-                "of": 3,
-                "mt": 2,
-                "sl": 4,
-                "sw": 5,
-                "sa": 2,
-                "sg": 0,
-                "tl": 1,
-                "tw": 5,
-                "ta": 1,
-                "tg": 1
+                "speed": {
+                    "ground": 4,
+                    "water": 5,
+                    "air": 0,
+                    "antigravity": 2
+                },
+                "acceleration": 1,
+                "weight": 4,
+                "handling": {
+                    "ground": 1,
+                    "water": 5,
+                    "air": 1,
+                    "antigravity": 1
+                },
+                "traction": 3,
+                "miniTurbo": 3,
+                "invincibility": 6
             },
             "inward": "false"
         },
@@ -204,19 +244,23 @@
             "name": "Tri-Speeder",
             "picture": "../pictures/karticons/MK8D_Tri-Speeder.png",
             "data": {
-                "wg": 4,
-                "ac": 1,
-                "on": 1,
-                "of": 3,
-                "mt": 2,
-                "sl": 4,
-                "sw": 5,
-                "sa": 2,
-                "sg": 0,
-                "tl": 1,
-                "tw": 5,
-                "ta": 1,
-                "tg": 1
+                "speed": {
+                    "ground": 4,
+                    "water": 5,
+                    "air": 0,
+                    "antigravity": 2
+                },
+                "acceleration": 1,
+                "weight": 4,
+                "handling": {
+                    "ground": 1,
+                    "water": 5,
+                    "air": 1,
+                    "antigravity": 1
+                },
+                "traction": 3,
+                "miniTurbo": 3,
+                "invincibility": 6
             },
             "inward": "false"
         },
@@ -224,19 +268,23 @@
             "name": "Bone Rattler",
             "picture": "../pictures/karticons/MK8D_Bone_Rattler.png",
             "data": {
-                "wg": 4,
-                "ac": 1,
-                "on": 1,
-                "of": 3,
-                "mt": 2,
-                "sl": 4,
-                "sw": 5,
-                "sa": 2,
-                "sg": 0,
-                "tl": 1,
-                "tw": 5,
-                "ta": 1,
-                "tg": 1
+                "speed": {
+                    "ground": 4,
+                    "water": 5,
+                    "air": 0,
+                    "antigravity": 2
+                },
+                "acceleration": 1,
+                "weight": 4,
+                "handling": {
+                    "ground": 1,
+                    "water": 5,
+                    "air": 1,
+                    "antigravity": 1
+                },
+                "traction": 3,
+                "miniTurbo": 3,
+                "invincibility": 5
             },
             "inward": "false"
         },
@@ -244,19 +292,47 @@
             "name": "Cat Cruiser",
             "picture": "../pictures/karticons/MK8D_Cat_Cruiser.png",
             "data": {
-                "wg": 2,
-                "ac": 5,
-                "on": 4,
-                "of": 3,
-                "mt": 5,
-                "sl": 2,
-                "sw": 2,
-                "sa": 4,
-                "sg": 4,
-                "tl": 4,
-                "tw": 2,
-                "ta": 3,
-                "tg": 4
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 4,
+                    "antigravity": 3
+                },
+                "acceleration": 5,
+                "weight": 2,
+                "handling": {
+                    "ground": 4,
+                    "water": 2,
+                    "air": 4,
+                    "antigravity": 3
+                },
+                "traction": 3,
+                "miniTurbo": 6,
+                "invincibility": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Teddy Buggy",
+            "picture": "../pictures/karticons/MK8D_Teddy_Buggy.png",
+            "data": {
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 4,
+                    "antigravity": 3
+                },
+                "acceleration": 5,
+                "weight": 2,
+                "handling": {
+                    "ground": 4,
+                    "water": 2,
+                    "air": 4,
+                    "antigravity": 3
+                },
+                "traction": 3,
+                "miniTurbo": 6,
+                "invincibility": 3
             },
             "inward": "false"
         },
@@ -264,79 +340,71 @@
             "name": "Comet",
             "picture": "../pictures/karticons/MK8D_Comet.png",
             "data": {
-                "wg": 2,
-                "ac": 5,
-                "on": 4,
-                "of": 3,
-                "mt": 5,
-                "sl": 2,
-                "sw": 2,
-                "sa": 4,
-                "sg": 4,
-                "tl": 4,
-                "tw": 2,
-                "ta": 3,
-                "tg": 4
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 4,
+                    "antigravity": 3
+                },
+                "acceleration": 5,
+                "weight": 2,
+                "handling": {
+                    "ground": 4,
+                    "water": 2,
+                    "air": 4,
+                    "antigravity": 3
+                },
+                "traction": 3,
+                "miniTurbo": 6,
+                "invincibility": 2
             },
             "inward": "true"
         },
         {
             "name": "Yoshi Bike",
-            "picture": "../pictures/karticons/MK8D_yoshi_Bike.png",
+            "picture": "../pictures/karticons/MK8D_Yoshi_Bike.png",
             "data": {
-                "wg": 2,
-                "ac": 5,
-                "on": 4,
-                "of": 3,
-                "mt": 5,
-                "sl": 2,
-                "sw": 2,
-                "sa": 4,
-                "sg": 4,
-                "tl": 4,
-                "tw": 2,
-                "ta": 3,
-                "tg": 4
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 4,
+                    "antigravity": 3
+                },
+                "acceleration": 5,
+                "weight": 2,
+                "handling": {
+                    "ground": 4,
+                    "water": 2,
+                    "air": 4,
+                    "antigravity": 3
+                },
+                "traction": 3,
+                "miniTurbo": 6,
+                "invincibility": 2
             },
             "inward": "true"
-        },
-        {
-            "name": "Teddy Buggy",
-            "picture": "../pictures/karticons/MK8D_Teddy_Buggy.png",
-            "data": {
-                "wg": 2,
-                "ac": 5,
-                "on": 4,
-                "of": 3,
-                "mt": 5,
-                "sl": 2,
-                "sw": 2,
-                "sa": 4,
-                "sg": 4,
-                "tl": 4,
-                "tw": 2,
-                "ta": 3,
-                "tg": 4
-            },
-            "inward": "false"
         },
         {
             "name": "Circuit Special",
             "picture": "../pictures/karticons/MK8D_Circuit_Special.png",
             "data": {
-                "wg": 3,
-                "ac": 1,
-                "on": 3,
-                "of": 1,
-                "mt": 1,
-                "sl": 5,
-                "sw": 1,
-                "sa": 4,
-                "sg": 2,
-                "tl": 1,
-                "tw": 1,
-                "ta": 2,
-                "tg": 0
+                "speed": {
+                    "ground": 5,
+                    "water": 1,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "acceleration": 1,
+                "weight": 3,
+                "handling": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 0,
+                    "antigravity": 2
+                },
+                "traction": 1,
+                "miniTurbo": 2,
+                "invincibility": 6
             },
             "inward": "false"
         },
@@ -344,19 +412,23 @@
             "name": "B Dasher",
             "picture": "../pictures/karticons/MK8D_B_Dasher.png",
             "data": {
-                "wg": 3,
-                "ac": 1,
-                "on": 3,
-                "of": 1,
-                "mt": 1,
-                "sl": 5,
-                "sw": 1,
-                "sa": 4,
-                "sg": 2,
-                "tl": 1,
-                "tw": 1,
-                "ta": 2,
-                "tg": 0
+                "speed": {
+                    "ground": 5,
+                    "water": 1,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "acceleration": 1,
+                "weight": 3,
+                "handling": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 0,
+                    "antigravity": 2
+                },
+                "traction": 1,
+                "miniTurbo": 2,
+                "invincibility": 6
             },
             "inward": "false"
         },
@@ -364,19 +436,23 @@
             "name": "P-Wing",
             "picture": "../pictures/karticons/MK8D_P-Wing.png",
             "data": {
-                "wg": 3,
-                "ac": 1,
-                "on": 3,
-                "of": 1,
-                "mt": 1,
-                "sl": 5,
-                "sw": 1,
-                "sa": 4,
-                "sg": 2,
-                "tl": 1,
-                "tw": 1,
-                "ta": 2,
-                "tg": 0
+                "speed": {
+                    "ground": 5,
+                    "water": 1,
+                    "air": 2,
+                    "antigravity": 4
+                },
+                "acceleration": 1,
+                "weight": 3,
+                "handling": {
+                    "ground": 1,
+                    "water": 1,
+                    "air": 0,
+                    "antigravity": 2
+                },
+                "traction": 1,
+                "miniTurbo": 2,
+                "invincibility": 6
             },
             "inward": "false"
         },
@@ -384,39 +460,23 @@
             "name": "Badwagon",
             "picture": "../pictures/karticons/MK8D_Badwagon.png",
             "data": {
-                "wg": 4,
-                "ac": 0,
-                "on": 2,
-                "of": 5,
-                "mt": 0,
-                "sl": 5,
-                "sw": 2,
-                "sa": 3,
-                "sg": 1,
-                "tl": 0,
-                "tw": 1,
-                "ta": 1,
-                "tg": 0
-            },
-            "inward": "false"
-        },
-        {
-            "name": "Standard ATV",
-            "picture": "../pictures/karticons/MK8D_Standard_ATV.png",
-            "data": {
-                "wg": 4,
-                "ac": 0,
-                "on": 2,
-                "of": 5,
-                "mt": 0,
-                "sl": 5,
-                "sw": 2,
-                "sa": 3,
-                "sg": 1,
-                "tl": 0,
-                "tw": 1,
-                "ta": 1,
-                "tg": 0
+                "speed": {
+                    "ground": 5,
+                    "water": 2,
+                    "air": 1,
+                    "antigravity": 3
+                },
+                "acceleration": 0,
+                "weight": 4,
+                "handling": {
+                    "ground": 0,
+                    "water": 1,
+                    "air": 0,
+                    "antigravity": 1
+                },
+                "traction": 5,
+                "miniTurbo": 1,
+                "invincibility": 7
             },
             "inward": "false"
         },
@@ -424,19 +484,47 @@
             "name": "GLA",
             "picture": "../pictures/karticons/MK8D_GLA.png",
             "data": {
-                "wg": 4,
-                "ac": 0,
-                "on": 2,
-                "of": 5,
-                "mt": 0,
-                "sl": 5,
-                "sw": 2,
-                "sa": 3,
-                "sg": 1,
-                "tl": 0,
-                "tw": 1,
-                "ta": 1,
-                "tg": 0
+                "speed": {
+                    "ground": 5,
+                    "water": 2,
+                    "air": 1,
+                    "antigravity": 3
+                },
+                "acceleration": 0,
+                "weight": 4,
+                "handling": {
+                    "ground": 0,
+                    "water": 1,
+                    "air": 0,
+                    "antigravity": 1
+                },
+                "traction": 5,
+                "miniTurbo": 1,
+                "invincibility": 7
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Standard ATV",
+            "picture": "../pictures/karticons/MK8D_Standard_ATV.png",
+            "data": {
+                "speed": {
+                    "ground": 5,
+                    "water": 2,
+                    "air": 1,
+                    "antigravity": 3
+                },
+                "acceleration": 0,
+                "weight": 4,
+                "handling": {
+                    "ground": 0,
+                    "water": 1,
+                    "air": 0,
+                    "antigravity": 1
+                },
+                "traction": 5,
+                "miniTurbo": 1,
+                "invincibility": 6
             },
             "inward": "false"
         },
@@ -444,39 +532,47 @@
             "name": "Prancer",
             "picture": "../pictures/karticons/MK8D_Prancer.png",
             "data": {
-                "wg": 1,
-                "ac": 2,
-                "on": 1,
-                "of": 2,
-                "mt": 3,
-                "sl": 4,
-                "sw": 3,
-                "sa": 3,
-                "sg": 3,
-                "tl": 3,
-                "tw": 3,
-                "ta": 2,
-                "tg": 3
+                "speed": {
+                    "ground": 4,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 2,
+                "weight": 1,
+                "handling": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 2
+                },
+                "traction": 2,
+                "miniTurbo": 4,
+                "invincibility": 5
             },
             "inward": "false"
         },
         {
-            "name": "Sports Bike",
-            "picture": "../pictures/karticons/MK8D_Sports_Bike.png",
+            "name": "Sport Bike",
+            "picture": "../pictures/karticons/MK8D_Sport_Bike.png",
             "data": {
-                "wg": 1,
-                "ac": 2,
-                "on": 1,
-                "of": 2,
-                "mt": 3,
-                "sl": 4,
-                "sw": 3,
-                "sa": 3,
-                "sg": 3,
-                "tl": 3,
-                "tw": 3,
-                "ta": 2,
-                "tg": 3
+                "speed": {
+                    "ground": 4,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 2,
+                "weight": 1,
+                "handling": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 2
+                },
+                "traction": 2,
+                "miniTurbo": 4,
+                "invincibility": 3
             },
             "inward": "true"
         },
@@ -484,19 +580,23 @@
             "name": "Jet Bike",
             "picture": "../pictures/karticons/MK8D_Jet_Bike.png",
             "data": {
-                "wg": 1,
-                "ac": 2,
-                "on": 1,
-                "of": 2,
-                "mt": 3,
-                "sl": 4,
-                "sw": 3,
-                "sa": 3,
-                "sg": 3,
-                "tl": 3,
-                "tw": 3,
-                "ta": 2,
-                "tg": 3
+                "speed": {
+                    "ground": 4,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 2,
+                "weight": 1,
+                "handling": {
+                    "ground": 3,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 2
+                },
+                "traction": 2,
+                "miniTurbo": 4,
+                "invincibility": 3
             },
             "inward": "true"
         },
@@ -504,19 +604,23 @@
             "name": "Biddybuggy",
             "picture": "../pictures/karticons/MK8D_Biddybuggy.png",
             "data": {
-                "wg": 0,
-                "ac": 7,
-                "on": 1,
-                "of": 4,
-                "mt": 7,
-                "sl": 0,
-                "sw": 1,
-                "sa": 2,
-                "sg": 1,
-                "tl": 5,
-                "tw": 4,
-                "ta": 5,
-                "tg": 4
+                "speed": {
+                    "ground": 0,
+                    "water": 1,
+                    "air": 1,
+                    "antigravity": 2
+                },
+                "acceleration": 7,
+                "weight": 0,
+                "handling": {
+                    "ground": 5,
+                    "water": 4,
+                    "air": 4,
+                    "antigravity": 5
+                },
+                "traction": 4,
+                "miniTurbo": 7,
+                "invincibility": 0
             },
             "inward": "false"
         },
@@ -524,19 +628,23 @@
             "name": "Mr. Scooty",
             "picture": "../pictures/karticons/MK8D_Mr_Scooty.png",
             "data": {
-                "wg": 0,
-                "ac": 7,
-                "on": 1,
-                "of": 4,
-                "mt": 7,
-                "sl": 0,
-                "sw": 1,
-                "sa": 2,
-                "sg": 1,
-                "tl": 5,
-                "tw": 4,
-                "ta": 5,
-                "tg": 4
+                "speed": {
+                    "ground": 0,
+                    "water": 1,
+                    "air": 1,
+                    "antigravity": 2
+                },
+                "acceleration": 7,
+                "weight": 0,
+                "handling": {
+                    "ground": 5,
+                    "water": 4,
+                    "air": 4,
+                    "antigravity": 5
+                },
+                "traction": 4,
+                "miniTurbo": 7,
+                "invincibility": 0
             },
             "inward": "false"
         },
@@ -544,19 +652,23 @@
             "name": "Landship",
             "picture": "../pictures/karticons/MK8D_Landship.png",
             "data": {
-                "wg": 0,
-                "ac": 6,
-                "on": 0,
-                "of": 6,
-                "mt": 6,
-                "sl": 1,
-                "sw": 5,
-                "sa": 0,
-                "sg": 2,
-                "tl": 4,
-                "tw": 5,
-                "ta": 2,
-                "tg": 3
+                "speed": {
+                    "ground": 1,
+                    "water": 5,
+                    "air": 2,
+                    "antigravity": 0
+                },
+                "acceleration": 6,
+                "weight": 0,
+                "handling": {
+                    "ground": 4,
+                    "water": 5,
+                    "air": 3,
+                    "antigravity": 2
+                },
+                "traction": 6,
+                "miniTurbo": 6,
+                "invincibility": 1
             },
             "inward": "false"
         },
@@ -564,39 +676,70 @@
             "name": "Streetle",
             "picture": "../pictures/karticons/MK8D_Streetle.png",
             "data": {
-                "wg": 0,
-                "ac": 6,
-                "on": 0,
-                "of": 6,
-                "mt": 6,
-                "sl": 1,
-                "sw": 5,
-                "sa": 0,
-                "sg": 2,
-                "tl": 4,
-                "tw": 5,
-                "ta": 2,
-                "tg": 3
+                "speed": {
+                    "ground": 1,
+                    "water": 5,
+                    "air": 2,
+                    "antigravity": 0
+                },
+                "acceleration": 6,
+                "weight": 0,
+                "handling": {
+                    "ground": 4,
+                    "water": 5,
+                    "air": 3,
+                    "antigravity": 2
+                },
+                "traction": 6,
+                "miniTurbo": 6,
+                "invincibility": 2
             },
             "inward": "false"
         },
         {
-            "name": "Sneaker",
-            "picture": "../pictures/karticons/MK8D_Sneaker.png",
+            "name": "Sneeker",
+            "picture": "../pictures/karticons/MK8D_Sneeker.png",
             "data": {
-                "wg": 2,
-                "ac": 2,
-                "on": 1,
-                "of": 0,
-                "mt": 3,
-                "sl": 4,
-                "sw": 2,
-                "sa": 3,
-                "sg": 3,
-                "tl": 3,
-                "tw": 2,
-                "ta": 3,
-                "tg": 2
+                "speed": {
+                    "ground": 4,
+                    "water": 2,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 2,
+                "weight": 2,
+                "handling": {
+                    "ground": 3,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 3
+                },
+                "traction": 0,
+                "miniTurbo": 4,
+                "invincibility": 5
+            },
+            "inward": "false"
+        },{
+            "name": "Sneeker",
+            "picture": "../pictures/karticons/MK8D_Sneeker.png",
+            "data": {
+                "speed": {
+                    "ground": 4,
+                    "water": 2,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 2,
+                "weight": 2,
+                "handling": {
+                    "ground": 3,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 3
+                },
+                "traction": 0,
+                "miniTurbo": 4,
+                "invincibility": 5
             },
             "inward": "false"
         },
@@ -604,19 +747,23 @@
             "name": "Gold Standard",
             "picture": "../pictures/karticons/MK8D_Gold_Standard.png",
             "data": {
-                "wg": 2,
-                "ac": 2,
-                "on": 1,
-                "of": 0,
-                "mt": 3,
-                "sl": 4,
-                "sw": 2,
-                "sa": 3,
-                "sg": 3,
-                "tl": 3,
-                "tw": 2,
-                "ta": 3,
-                "tg": 2
+                "speed": {
+                    "ground": 4,
+                    "water": 2,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 2,
+                "weight": 2,
+                "handling": {
+                    "ground": 3,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 3
+                },
+                "traction": 0,
+                "miniTurbo": 4,
+                "invincibility": 4
             },
             "inward": "false"
         },
@@ -624,19 +771,23 @@
             "name": "Master Cycle",
             "picture": "../pictures/karticons/MK8D_Master_Cycle.png",
             "data": {
-                "wg": 2,
-                "ac": 2,
-                "on": 1,
-                "of": 0,
-                "mt": 3,
-                "sl": 4,
-                "sw": 2,
-                "sa": 3,
-                "sg": 3,
-                "tl": 3,
-                "tw": 2,
-                "ta": 3,
-                "tg": 2
+                "speed": {
+                    "ground": 4,
+                    "water": 2,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 2,
+                "weight": 2,
+                "handling": {
+                    "ground": 3,
+                    "water": 2,
+                    "air": 2,
+                    "antigravity": 3
+                },
+                "traction": 0,
+                "miniTurbo": 4,
+                "invincibility": 3
             },
             "inward": "true"
         },
@@ -644,19 +795,23 @@
             "name": "Standard Bike",
             "picture": "../pictures/karticons/MK8D_Standard_Bike.png",
             "data": {
-                "wg": 1,
-                "ac": 5,
-                "on": 3,
-                "of": 5,
-                "mt": 5,
-                "sl": 2,
-                "sw": 2,
-                "sa": 4,
-                "sg": 3,
-                "tl": 4,
-                "tw": 3,
-                "ta": 4,
-                "tg": 3
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 3,
+                    "antigravity": 4
+                },
+                "acceleration": 5,
+                "weight": 1,
+                "handling": {
+                    "ground": 4,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 4
+                },
+                "traction": 5,
+                "miniTurbo": 5,
+                "invincibility": 2
             },
             "inward": "false"
         },
@@ -664,19 +819,23 @@
             "name": "Flame Rider",
             "picture": "../pictures/karticons/MK8D_Flame_Rider.png",
             "data": {
-                "wg": 1,
-                "ac": 5,
-                "on": 3,
-                "of": 5,
-                "mt": 5,
-                "sl": 2,
-                "sw": 2,
-                "sa": 4,
-                "sg": 3,
-                "tl": 4,
-                "tw": 3,
-                "ta": 4,
-                "tg": 3
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 3,
+                    "antigravity": 4
+                },
+                "acceleration": 5,
+                "weight": 1,
+                "handling": {
+                    "ground": 4,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 4
+                },
+                "traction": 5,
+                "miniTurbo": 5,
+                "invincibility": 2
             },
             "inward": "false"
         },
@@ -684,19 +843,23 @@
             "name": "Wild Wiggler",
             "picture": "../pictures/karticons/MK8D_Wild_Wiggler.png",
             "data": {
-                "wg": 1,
-                "ac": 5,
-                "on": 3,
-                "of": 5,
-                "mt": 5,
-                "sl": 2,
-                "sw": 2,
-                "sa": 4,
-                "sg": 3,
-                "tl": 4,
-                "tw": 3,
-                "ta": 4,
-                "tg": 3
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 3,
+                    "antigravity": 4
+                },
+                "acceleration": 5,
+                "weight": 1,
+                "handling": {
+                    "ground": 4,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 4
+                },
+                "traction": 5,
+                "miniTurbo": 5,
+                "invincibility": 1
             },
             "inward": "false"
         },
@@ -704,79 +867,23 @@
             "name": "W 25 Silver Arrow",
             "picture": "../pictures/karticons/MK8D_W_25_Silver_Arrow.png",
             "data": {
-                "wg": 1,
-                "ac": 5,
-                "on": 3,
-                "of": 5,
-                "mt": 5,
-                "sl": 2,
-                "sw": 2,
-                "sa": 4,
-                "sg": 3,
-                "tl": 4,
-                "tw": 3,
-                "ta": 4,
-                "tg": 3
-            },
-            "inward": "false"
-        },
-        {
-            "name": "Tanooki Kart",
-            "picture": "../pictures/karticons/MK8D_Tanooki_Kart.png",
-            "data": {
-                "wg": 3,
-                "ac": 2,
-                "on": 4,
-                "of": 7,
-                "mt": 3,
-                "sl": 2,
-                "sw": 4,
-                "sa": 3,
-                "sg": 3,
-                "tl": 4,
-                "tw": 4,
-                "ta": 3,
-                "tg": 3
-            },
-            "inward": "false"
-        },
-        {
-            "name": "Master Cycle Zero",
-            "picture": "../pictures/karticons/MK8D_Master_Cycle_Zero.png",
-            "data": {
-                "wg": 3,
-                "ac": 2,
-                "on": 4,
-                "of": 7,
-                "mt": 3,
-                "sl": 2,
-                "sw": 4,
-                "sa": 3,
-                "sg": 3,
-                "tl": 4,
-                "tw": 4,
-                "ta": 3,
-                "tg": 3
-            },
-            "inward": "false"
-        },
-        {
-            "name": "Koopa Clown",
-            "picture": "../pictures/karticons/MK8D_Koopa_Clown.png",
-            "data": {
-                "wg": 3,
-                "ac": 2,
-                "on": 4,
-                "of": 7,
-                "mt": 3,
-                "sl": 2,
-                "sw": 4,
-                "sa": 3,
-                "sg": 3,
-                "tl": 4,
-                "tw": 4,
-                "ta": 3,
-                "tg": 3
+                "speed": {
+                    "ground": 2,
+                    "water": 2,
+                    "air": 3,
+                    "antigravity": 4
+                },
+                "acceleration": 5,
+                "weight": 1,
+                "handling": {
+                    "ground": 4,
+                    "water": 3,
+                    "air": 3,
+                    "antigravity": 4
+                },
+                "traction": 5,
+                "miniTurbo": 5,
+                "invincibility": 3
             },
             "inward": "false"
         },
@@ -784,19 +891,23 @@
             "name": "Blue Falcon",
             "picture": "../pictures/karticons/MK8D_Blue_Falcon.png",
             "data": {
-                "wg": 0,
-                "ac": 3,
-                "on": 1,
-                "of": 3,
-                "mt": 3,
-                "sl": 4,
-                "sw": 2,
-                "sa": 4,
-                "sg": 3,
-                "tl": 2,
-                "tw": 4,
-                "ta": 5,
-                "tg": 1
+                "speed": {
+                    "ground": 4,
+                    "water": 2,
+                    "air": 3,
+                    "antigravity": 4
+                },
+                "acceleration": 3,
+                "weight": 0,
+                "handling": {
+                    "ground": 2,
+                    "water": 3,
+                    "air": 1,
+                    "antigravity": 5
+                },
+                "traction": 3,
+                "miniTurbo": 4,
+                "invincibility": 4
             },
             "inward": "false"
         },
@@ -804,19 +915,95 @@
             "name": "Splat Buggy",
             "picture": "../pictures/karticons/MK8D_Splat_Buggy.png",
             "data": {
-                "wg": 0,
-                "ac": 3,
-                "on": 1,
-                "of": 3,
-                "mt": 3,
-                "sl": 4,
-                "sw": 2,
-                "sa": 4,
-                "sg": 3,
-                "tl": 2,
-                "tw": 4,
-                "ta": 5,
-                "tg": 1
+                "speed": {
+                    "ground": 4,
+                    "water": 2,
+                    "air": 3,
+                    "antigravity": 4
+                },
+                "acceleration": 3,
+                "weight": 0,
+                "handling": {
+                    "ground": 2,
+                    "water": 3,
+                    "air": 1,
+                    "antigravity": 5
+                },
+                "traction": 3,
+                "miniTurbo": 4,
+                "invincibility": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Tanooki Kart",
+            "picture": "../pictures/karticons/MK8D_Tanooki_Kart.png",
+            "data": {
+                "speed": {
+                    "ground": 2,
+                    "water": 4,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 2,
+                "weight": 3,
+                "handling": {
+                    "ground": 4,
+                    "water": 4,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 7,
+                "miniTurbo": 4,
+                "invincibility": 4
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Koopa Clown",
+            "picture": "../pictures/karticons/MK8D_Koopa_Clown.png",
+            "data": {
+                "speed": {
+                    "ground": 2,
+                    "water": 4,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 2,
+                "weight": 3,
+                "handling": {
+                    "ground": 4,
+                    "water": 4,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 7,
+                "miniTurbo": 4,
+                "invincibility": 3
+            },
+            "inward": "false"
+        },
+        {
+            "name": "Master Cycle Zero",
+            "picture": "../pictures/karticons/MK8D_Master_Cycle_Zero.png",
+            "data": {
+                "speed": {
+                    "ground": 2,
+                    "water": 4,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "acceleration": 2,
+                "weight": 3,
+                "handling": {
+                    "ground": 4,
+                    "water": 4,
+                    "air": 3,
+                    "antigravity": 3
+                },
+                "traction": 7,
+                "miniTurbo": 4,
+                "invincibility": 3
             },
             "inward": "false"
         }
